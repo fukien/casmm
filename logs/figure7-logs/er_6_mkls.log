@@ -1,0 +1,289 @@
+CONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.000831485	symb_time: 0.018604635	mgmt_time: 0.000022905	numc_time: 0.006606778	total_time: 0.026065803
+[0m
+[0;36m1th run	init_time: 0.000893670	symb_time: 0.005779547	mgmt_time: 0.000027161	numc_time: 0.005329989	total_time: 0.012030367
+[0m
+[0;36m2th run	init_time: 0.000898015	symb_time: 0.005624094	mgmt_time: 0.000026782	numc_time: 0.005170715	total_time: 0.011719606
+[0m
+[0;36m3th run	init_time: 0.000892293	symb_time: 0.005600038	mgmt_time: 0.000025287	numc_time: 0.005144457	total_time: 0.011662075
+[0m
+[0;36m4th run	init_time: 0.000898112	symb_time: 0.005629448	mgmt_time: 0.000027204	numc_time: 0.005173717	total_time: 0.011728481
+[0m
+[0;32mdataset: er_18_1	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.000895523	symb_time: 0.005658282	mgmt_time: 0.000026609	numc_time: 0.005204720	total_time: 0.011785132	flop_cnt: 1573868	numc_perf: 302392472.831629038	perf: 133546910.345448181
+[0mCONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.000896002	symb_time: 0.021006685	mgmt_time: 0.000026632	numc_time: 0.015998133	total_time: 0.037927452
+[0m
+[0;36m1th run	init_time: 0.000932059	symb_time: 0.010657869	mgmt_time: 0.000020004	numc_time: 0.015976687	total_time: 0.027586619
+[0m
+[0;36m2th run	init_time: 0.000933715	symb_time: 0.010821502	mgmt_time: 0.000020173	numc_time: 0.015787629	total_time: 0.027563019
+[0m
+[0;36m3th run	init_time: 0.000927182	symb_time: 0.010878852	mgmt_time: 0.000018808	numc_time: 0.015762121	total_time: 0.027586963
+[0m
+[0;36m4th run	init_time: 0.000926371	symb_time: 0.010891110	mgmt_time: 0.000019149	numc_time: 0.015811672	total_time: 0.027648302
+[0m
+[0;32mdataset: er_18_2	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.000929832	symb_time: 0.010812333	mgmt_time: 0.000019534	numc_time: 0.015834527	total_time: 0.027596226	flop_cnt: 5237284	numc_perf: 330750891.220955133	perf: 189782619.096018940
+[0mCONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.000922633	symb_time: 0.025531834	mgmt_time: 0.000024473	numc_time: 0.065309010	total_time: 0.091787950
+[0m
+[0;36m1th run	init_time: 0.001007318	symb_time: 0.016526600	mgmt_time: 0.000019176	numc_time: 0.065932410	total_time: 0.083485504
+[0m
+[0;36m2th run	init_time: 0.001007594	symb_time: 0.016520847	mgmt_time: 0.000018768	numc_time: 0.066518204	total_time: 0.084065413
+[0m
+[0;36m3th run	init_time: 0.001009686	symb_time: 0.016450194	mgmt_time: 0.000017553	numc_time: 0.066379968	total_time: 0.083857401
+[0m
+[0;36m4th run	init_time: 0.001010972	symb_time: 0.016549472	mgmt_time: 0.000019091	numc_time: 0.066020960	total_time: 0.083600495
+[0m
+[0;32mdataset: er_18_4	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.001008893	symb_time: 0.016511778	mgmt_time: 0.000018647	numc_time: 0.066212886	total_time: 0.083752203	flop_cnt: 18879238	numc_perf: 285129365.038773239	perf: 225417807.142882526
+[0mCONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.000999326	symb_time: 0.044822713	mgmt_time: 0.000023707	numc_time: 0.263443384	total_time: 0.309289130
+[0m
+[0;36m1th run	init_time: 0.001039981	symb_time: 0.031050330	mgmt_time: 0.000033545	numc_time: 0.263810704	total_time: 0.295934560
+[0m
+[0;36m2th run	init_time: 0.001039811	symb_time: 0.030971843	mgmt_time: 0.000020962	numc_time: 0.263634204	total_time: 0.295666820
+[0m
+[0;36m3th run	init_time: 0.001038231	symb_time: 0.031005821	mgmt_time: 0.000020622	numc_time: 0.262785181	total_time: 0.294849855
+[0m
+[0;36m4th run	init_time: 0.001046694	symb_time: 0.031092867	mgmt_time: 0.000036583	numc_time: 0.263033531	total_time: 0.295209675
+[0m
+[0;32mdataset: er_18_8	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.001041179	symb_time: 0.031030215	mgmt_time: 0.000027928	numc_time: 0.263315905	total_time: 0.295415228	flop_cnt: 71328054	numc_perf: 270883955.908398271	perf: 241450160.181739420
+[0mCONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.001030155	symb_time: 0.144514521	mgmt_time: 0.000040887	numc_time: 1.023980597	total_time: 1.169566160
+[0m
+[0;36m1th run	init_time: 0.001058595	symb_time: 0.135178682	mgmt_time: 0.000033247	numc_time: 1.026315052	total_time: 1.162585576
+[0m
+[0;36m2th run	init_time: 0.001056661	symb_time: 0.134528343	mgmt_time: 0.000031303	numc_time: 1.026501421	total_time: 1.162117728
+[0m
+[0;36m3th run	init_time: 0.001068594	symb_time: 0.135054493	mgmt_time: 0.000037088	numc_time: 1.025171317	total_time: 1.161331492
+[0m
+[0;36m4th run	init_time: 0.001058907	symb_time: 0.135372179	mgmt_time: 0.000023025	numc_time: 1.024996144	total_time: 1.161450255
+[0m
+[0;32mdataset: er_18_16	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.001060689	symb_time: 0.135033424	mgmt_time: 0.000031166	numc_time: 1.025745984	total_time: 1.161871263	flop_cnt: 277105556	numc_perf: 270150271.565747738	perf: 238499362.953626007
+[0mCONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.001034992	symb_time: 0.512969834	mgmt_time: 0.000040053	numc_time: 4.094359158	total_time: 4.608404037
+[0m
+[0;36m1th run	init_time: 0.001065324	symb_time: 0.503441063	mgmt_time: 0.000036521	numc_time: 4.097432376	total_time: 4.601975284
+[0m
+[0;36m2th run	init_time: 0.001063177	symb_time: 0.488894025	mgmt_time: 0.000039931	numc_time: 4.082677341	total_time: 4.572674474
+[0m
+[0;36m3th run	init_time: 0.001058875	symb_time: 0.488863641	mgmt_time: 0.000031886	numc_time: 4.087817015	total_time: 4.577771417
+[0m
+[0;36m4th run	init_time: 0.001058960	symb_time: 0.488740672	mgmt_time: 0.000030588	numc_time: 4.084521100	total_time: 4.574351320
+[0m
+[0;32mdataset: er_18_32	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.001061584	symb_time: 0.492484850	mgmt_time: 0.000034731	numc_time: 4.088111958	total_time: 4.581693124	flop_cnt: 1090559662	numc_perf: 266763648.648587257	perf: 238025470.616287023
+[0mCONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.001783669	symb_time: 0.031224875	mgmt_time: 0.000028380	numc_time: 0.018230062	total_time: 0.051266986
+[0m
+[0;36m1th run	init_time: 0.001958735	symb_time: 0.019012754	mgmt_time: 0.000027268	numc_time: 0.017896895	total_time: 0.038895652
+[0m
+[0;36m2th run	init_time: 0.001961473	symb_time: 0.019271111	mgmt_time: 0.000024881	numc_time: 0.017848503	total_time: 0.039105968
+[0m
+[0;36m3th run	init_time: 0.001965330	symb_time: 0.019231726	mgmt_time: 0.000023537	numc_time: 0.017857079	total_time: 0.039077672
+[0m
+[0;36m4th run	init_time: 0.001986210	symb_time: 0.019197500	mgmt_time: 0.000038711	numc_time: 0.017811064	total_time: 0.039033485
+[0m
+[0;32mdataset: er_19_1	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.001967937	symb_time: 0.019178273	mgmt_time: 0.000028599	numc_time: 0.017853385	total_time: 0.039028194	flop_cnt: 3147278	numc_perf: 176284662.876470447	perf: 80641138.040866420
+[0mCONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.001860227	symb_time: 0.043257653	mgmt_time: 0.000028747	numc_time: 0.052358244	total_time: 0.097504871
+[0m
+[0;36m1th run	init_time: 0.001942908	symb_time: 0.033827875	mgmt_time: 0.000022123	numc_time: 0.052171343	total_time: 0.087964249
+[0m
+[0;36m2th run	init_time: 0.001939229	symb_time: 0.033786312	mgmt_time: 0.000033090	numc_time: 0.052332552	total_time: 0.088091183
+[0m
+[0;36m3th run	init_time: 0.001947562	symb_time: 0.034289876	mgmt_time: 0.000048072	numc_time: 0.052178378	total_time: 0.088463888
+[0m
+[0;36m4th run	init_time: 0.001954294	symb_time: 0.033845562	mgmt_time: 0.000032669	numc_time: 0.052083080	total_time: 0.087915605
+[0m
+[0;32mdataset: er_19_2	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.001945998	symb_time: 0.033937406	mgmt_time: 0.000033989	numc_time: 0.052191338	total_time: 0.088108731	flop_cnt: 10490794	numc_perf: 201006418.914732456	perf: 119066451.771202862
+[0mCONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.001947434	symb_time: 0.095894058	mgmt_time: 0.000048638	numc_time: 0.193481406	total_time: 0.291371536
+[0m
+[0;36m1th run	init_time: 0.002037867	symb_time: 0.088552240	mgmt_time: 0.000041197	numc_time: 0.193306471	total_time: 0.283937775
+[0m
+[0;36m2th run	init_time: 0.002031899	symb_time: 0.088589082	mgmt_time: 0.000046457	numc_time: 0.193523359	total_time: 0.284190797
+[0m
+[0;36m3th run	init_time: 0.002024302	symb_time: 0.088626543	mgmt_time: 0.000039926	numc_time: 0.193803139	total_time: 0.284493910
+[0m
+[0;36m4th run	init_time: 0.002035193	symb_time: 0.088710269	mgmt_time: 0.000039053	numc_time: 0.193361657	total_time: 0.284146172
+[0m
+[0;32mdataset: er_19_4	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.002032315	symb_time: 0.088619534	mgmt_time: 0.000041658	numc_time: 0.193498657	total_time: 0.284192163	flop_cnt: 37757054	numc_perf: 195128248.862027586	perf: 132857477.613030672
+[0mCONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.002017738	symb_time: 0.274882043	mgmt_time: 0.000047882	numc_time: 0.725370482	total_time: 1.002318145
+[0m
+[0;36m1th run	init_time: 0.002077524	symb_time: 0.267058889	mgmt_time: 0.000031972	numc_time: 0.726543225	total_time: 0.995711610
+[0m
+[0;36m2th run	init_time: 0.002069012	symb_time: 0.266807476	mgmt_time: 0.000041516	numc_time: 0.726424328	total_time: 0.995342332
+[0m
+[0;36m3th run	init_time: 0.002066900	symb_time: 0.266721268	mgmt_time: 0.000040436	numc_time: 0.725952271	total_time: 0.994780875
+[0m
+[0;36m4th run	init_time: 0.002077704	symb_time: 0.267102772	mgmt_time: 0.000031287	numc_time: 0.726222310	total_time: 0.995434073
+[0m
+[0;32mdataset: er_19_8	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.002072785	symb_time: 0.266922601	mgmt_time: 0.000036303	numc_time: 0.726285534	total_time: 0.995317223	flop_cnt: 142742320	numc_perf: 196537468.276586562	perf: 143413895.362390339
+[0mCONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.002045825	symb_time: 0.993432025	mgmt_time: 0.000042165	numc_time: 2.692047533	total_time: 3.687567548
+[0m
+[0;36m1th run	init_time: 0.002106108	symb_time: 0.984512503	mgmt_time: 0.000035229	numc_time: 2.692062692	total_time: 3.678716532
+[0m
+[0;36m2th run	init_time: 0.002116729	symb_time: 0.984836919	mgmt_time: 0.000035330	numc_time: 2.691482355	total_time: 3.678471333
+[0m
+[0;36m3th run	init_time: 0.002110143	symb_time: 0.983150315	mgmt_time: 0.000032345	numc_time: 2.691865072	total_time: 3.677157875
+[0m
+[0;36m4th run	init_time: 0.002097838	symb_time: 0.983163700	mgmt_time: 0.000021370	numc_time: 2.692022194	total_time: 3.677305102
+[0m
+[0;32mdataset: er_19_16	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.002107704	symb_time: 0.983915859	mgmt_time: 0.000031069	numc_time: 2.691858078	total_time: 3.677912711	flop_cnt: 553733304	numc_perf: 205706722.978496224	perf: 150556401.846938282
+[0mCONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.002310216	symb_time: 3.325814264	mgmt_time: 0.000050880	numc_time: 10.557915657	total_time: 13.886091017
+[0m
+[0;36m1th run	init_time: 0.002106259	symb_time: 3.314767378	mgmt_time: 0.000034333	numc_time: 10.556627535	total_time: 13.873535505
+[0m
+[0;36m2th run	init_time: 0.002098239	symb_time: 3.314909985	mgmt_time: 0.000031711	numc_time: 10.552921643	total_time: 13.869961578
+[0m
+[0;36m3th run	init_time: 0.002102942	symb_time: 3.314433945	mgmt_time: 0.000034271	numc_time: 10.550903863	total_time: 13.867475021
+[0m
+[0;36m4th run	init_time: 0.002095766	symb_time: 3.315462417	mgmt_time: 0.000033400	numc_time: 10.556165196	total_time: 13.873756779
+[0m
+[0;32mdataset: er_19_32	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.002100801	symb_time: 3.314893431	mgmt_time: 0.000033429	numc_time: 10.554154559	total_time: 13.871182221	flop_cnt: 2181162866	numc_perf: 206663911.709380686	perf: 157244193.846518934
+[0mCONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.003729797	symb_time: 0.052598028	mgmt_time: 0.000053435	numc_time: 0.041263458	total_time: 0.097644718
+[0m
+[0;36m1th run	init_time: 0.003681755	symb_time: 0.041946775	mgmt_time: 0.000042064	numc_time: 0.040984679	total_time: 0.086655273
+[0m
+[0;36m2th run	init_time: 0.003696929	symb_time: 0.041975223	mgmt_time: 0.000040838	numc_time: 0.041128866	total_time: 0.086841856
+[0m
+[0;36m3th run	init_time: 0.003673661	symb_time: 0.042040696	mgmt_time: 0.000027474	numc_time: 0.041094103	total_time: 0.086835934
+[0m
+[0;36m4th run	init_time: 0.003665928	symb_time: 0.041988727	mgmt_time: 0.000027158	numc_time: 0.041014656	total_time: 0.086696469
+[0m
+[0;32mdataset: er_20_1	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.003679568	symb_time: 0.041987855	mgmt_time: 0.000034384	numc_time: 0.041055576	total_time: 0.086757383	flop_cnt: 6290748	numc_perf: 153225179.449437022	perf: 72509656.036996871
+[0mCONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.004038723	symb_time: 0.101337526	mgmt_time: 0.000031877	numc_time: 0.130662809	total_time: 0.236070935
+[0m
+[0;36m1th run	init_time: 0.004027244	symb_time: 0.091706911	mgmt_time: 0.000032830	numc_time: 0.130647583	total_time: 0.226414568
+[0m
+[0;36m2th run	init_time: 0.004024391	symb_time: 0.091989159	mgmt_time: 0.000031918	numc_time: 0.130826119	total_time: 0.226871587
+[0m
+[0;36m3th run	init_time: 0.004034259	symb_time: 0.091872652	mgmt_time: 0.000020284	numc_time: 0.130998727	total_time: 0.226925922
+[0m
+[0;36m4th run	init_time: 0.004029421	symb_time: 0.091995019	mgmt_time: 0.000031657	numc_time: 0.130736843	total_time: 0.226792940
+[0m
+[0;32mdataset: er_20_2	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.004028829	symb_time: 0.091890935	mgmt_time: 0.000029172	numc_time: 0.130802318	total_time: 0.226751254	flop_cnt: 20968558	numc_perf: 160307235.533853471	perf: 92473834.684422702
+[0mCONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.004027330	symb_time: 0.284002117	mgmt_time: 0.000048929	numc_time: 0.468731780	total_time: 0.756810156
+[0m
+[0;36m1th run	init_time: 0.004100575	symb_time: 0.275321847	mgmt_time: 0.000039389	numc_time: 0.469464496	total_time: 0.748926307
+[0m
+[0;36m2th run	init_time: 0.004115221	symb_time: 0.275438526	mgmt_time: 0.000040169	numc_time: 0.468681072	total_time: 0.748274988
+[0m
+[0;36m3th run	init_time: 0.004088214	symb_time: 0.275489248	mgmt_time: 0.000057227	numc_time: 0.469387602	total_time: 0.749022291
+[0m
+[0;36m4th run	init_time: 0.004104344	symb_time: 0.275656926	mgmt_time: 0.000030012	numc_time: 0.469322381	total_time: 0.749113663
+[0m
+[0;32mdataset: er_20_4	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.004102088	symb_time: 0.275476637	mgmt_time: 0.000041699	numc_time: 0.469213888	total_time: 0.748834312	flop_cnt: 75507866	numc_perf: 160924192.508622110	perf: 100833875.751664966
+[0mCONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.004080854	symb_time: 0.940727436	mgmt_time: 0.000047459	numc_time: 1.750372191	total_time: 2.695227940
+[0m
+[0;36m1th run	init_time: 0.004168812	symb_time: 0.931354446	mgmt_time: 0.000046320	numc_time: 1.750727346	total_time: 2.686296924
+[0m
+[0;36m2th run	init_time: 0.004182353	symb_time: 0.931100588	mgmt_time: 0.000039386	numc_time: 1.750546340	total_time: 2.685868667
+[0m
+[0;36m3th run	init_time: 0.004165330	symb_time: 0.931190973	mgmt_time: 0.000029971	numc_time: 1.751151636	total_time: 2.686537910
+[0m
+[0;36m4th run	init_time: 0.004185760	symb_time: 0.931394231	mgmt_time: 0.000041989	numc_time: 1.750768475	total_time: 2.686390455
+[0m
+[0;32mdataset: er_20_8	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.004175564	symb_time: 0.931260060	mgmt_time: 0.000039417	numc_time: 1.750798449	total_time: 2.686273489	flop_cnt: 285424684	numc_perf: 163025437.977894634	perf: 106253024.931669578
+[0mCONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.004146566	symb_time: 3.461432004	mgmt_time: 0.000055495	numc_time: 6.570480791	total_time: 10.036114856
+[0m
+[0;36m1th run	init_time: 0.004169157	symb_time: 3.448689803	mgmt_time: 0.000038345	numc_time: 6.571120234	total_time: 10.024017539
+[0m
+[0;36m2th run	init_time: 0.004155282	symb_time: 3.448857809	mgmt_time: 0.000048437	numc_time: 6.571673144	total_time: 10.024734672
+[0m
+[0;36m3th run	init_time: 0.004158577	symb_time: 3.447273364	mgmt_time: 0.000030612	numc_time: 6.570948132	total_time: 10.022410685
+[0m
+[0;36m4th run	init_time: 0.004156083	symb_time: 3.446852480	mgmt_time: 0.000050577	numc_time: 6.570629228	total_time: 10.021688368
+[0m
+[0;32mdataset: er_20_16	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.004159775	symb_time: 3.447918364	mgmt_time: 0.000041993	numc_time: 6.571092684	total_time: 10.023212816	flop_cnt: 1107231140	numc_perf: 168500307.812086523	perf: 110466689.705773070
+[0mCONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.004147311	symb_time: 12.662714218	mgmt_time: 0.000038130	numc_time: 25.734313998	total_time: 38.401213657
+[0m
+[0;36m1th run	init_time: 0.004338186	symb_time: 12.671206293	mgmt_time: 0.000050027	numc_time: 25.683607374	total_time: 38.359201880
+[0m
+[0;36m2th run	init_time: 0.004226070	symb_time: 12.666754080	mgmt_time: 0.000035791	numc_time: 25.699271106	total_time: 38.370287047
+[0m
+[0;36m3th run	init_time: 0.004218679	symb_time: 12.671349290	mgmt_time: 0.000045319	numc_time: 25.698731197	total_time: 38.374344485
+[0m
+[0;36m4th run	init_time: 0.004212778	symb_time: 12.670527918	mgmt_time: 0.000043995	numc_time: 25.697874192	total_time: 38.372658883
+[0m
+[0;32mdataset: er_20_32	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.004248928	symb_time: 12.669959395	mgmt_time: 0.000043783	numc_time: 25.694870967	total_time: 38.369123074	flop_cnt: 4366158894	numc_perf: 169923363.287754595	perf: 113793554.405914485
+[0mCONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.008050557	symb_time: 0.120454254	mgmt_time: 0.000048590	numc_time: 0.095723002	total_time: 0.224276403
+[0m
+[0;36m1th run	init_time: 0.007839122	symb_time: 0.092030702	mgmt_time: 0.000033009	numc_time: 0.095371800	total_time: 0.195274633
+[0m
+[0;36m2th run	init_time: 0.007780941	symb_time: 0.092160507	mgmt_time: 0.000031075	numc_time: 0.095400365	total_time: 0.195372888
+[0m
+[0;36m3th run	init_time: 0.007798145	symb_time: 0.092184321	mgmt_time: 0.000049308	numc_time: 0.095462108	total_time: 0.195493882
+[0m
+[0;36m4th run	init_time: 0.007955534	symb_time: 0.091944956	mgmt_time: 0.000021948	numc_time: 0.095172190	total_time: 0.195094628
+[0m
+[0;32mdataset: er_21_1	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.007843435	symb_time: 0.092080122	mgmt_time: 0.000033835	numc_time: 0.095351616	total_time: 0.195309008	flop_cnt: 12586608	numc_perf: 132002042.136344194	perf: 64444585.249806531
+[0mCONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.008128352	symb_time: 0.227417915	mgmt_time: 0.000041599	numc_time: 0.293585170	total_time: 0.529173036
+[0m
+[0;36m1th run	init_time: 0.008109486	symb_time: 0.214279136	mgmt_time: 0.000022748	numc_time: 0.292946669	total_time: 0.515358039
+[0m
+[0;36m2th run	init_time: 0.008121222	symb_time: 0.214321321	mgmt_time: 0.000035315	numc_time: 0.293113984	total_time: 0.515591842
+[0m
+[0;36m3th run	init_time: 0.008093065	symb_time: 0.214459156	mgmt_time: 0.000031665	numc_time: 0.293122621	total_time: 0.515706507
+[0m
+[0;36m4th run	init_time: 0.008102482	symb_time: 0.214113824	mgmt_time: 0.000030852	numc_time: 0.292834288	total_time: 0.515081446
+[0m
+[0;32mdataset: er_21_2	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.008106564	symb_time: 0.214293359	mgmt_time: 0.000030145	numc_time: 0.293004390	total_time: 0.515434458	flop_cnt: 41963140	numc_perf: 143216761.797977269	perf: 81413144.402723327
+[0mCONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.008157961	symb_time: 0.678465895	mgmt_time: 0.000033689	numc_time: 1.029856096	total_time: 1.716513641
+[0m
+[0;36m1th run	init_time: 0.008228446	symb_time: 0.666106608	mgmt_time: 0.000040808	numc_time: 1.029971763	total_time: 1.704347625
+[0m
+[0;36m2th run	init_time: 0.008228512	symb_time: 0.666332818	mgmt_time: 0.000040917	numc_time: 1.029100068	total_time: 1.703702315
+[0m
+[0;36m3th run	init_time: 0.008331815	symb_time: 0.666246806	mgmt_time: 0.000034021	numc_time: 1.029260258	total_time: 1.703872900
+[0m
+[0;36m4th run	init_time: 0.008235838	symb_time: 0.666364493	mgmt_time: 0.000038333	numc_time: 1.029715987	total_time: 1.704354651
+[0m
+[0;32mdataset: er_21_4	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.008256153	symb_time: 0.666262681	mgmt_time: 0.000038520	numc_time: 1.029512019	total_time: 1.704069373	flop_cnt: 150998738	numc_perf: 146670204.148437440	perf: 88610675.371930808
+[0mCONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.008261321	symb_time: 2.343624555	mgmt_time: 0.000027625	numc_time: 3.845750612	total_time: 6.197664113
+[0m
+[0;36m1th run	init_time: 0.008391504	symb_time: 2.332662442	mgmt_time: 0.000021618	numc_time: 3.845910500	total_time: 6.186986064
+[0m
+[0;36m2th run	init_time: 0.008370845	symb_time: 2.333179872	mgmt_time: 0.000023917	numc_time: 3.844663016	total_time: 6.186237650
+[0m
+[0;36m3th run	init_time: 0.008364602	symb_time: 2.333399955	mgmt_time: 0.000022484	numc_time: 3.846758692	total_time: 6.188545733
+[0m
+[0;36m4th run	init_time: 0.008379309	symb_time: 2.333137234	mgmt_time: 0.000034694	numc_time: 3.845712346	total_time: 6.187263583
+[0m
+[0;32mdataset: er_21_8	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.008376565	symb_time: 2.333094876	mgmt_time: 0.000025678	numc_time: 3.845761139	total_time: 6.187258258	flop_cnt: 570627534	numc_perf: 148378308.857363790	perf: 92226234.989997894
+[0mCONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.008044678	symb_time: 8.827812385	mgmt_time: 0.000045652	numc_time: 14.649501659	total_time: 23.485404374
+[0m
+[0;36m1th run	init_time: 0.008542018	symb_time: 8.817888468	mgmt_time: 0.000044807	numc_time: 14.660888361	total_time: 23.487363654
+[0m
+[0;36m2th run	init_time: 0.008311365	symb_time: 8.817441036	mgmt_time: 0.000039019	numc_time: 14.652668813	total_time: 23.478460233
+[0m
+[0;36m3th run	init_time: 0.008300028	symb_time: 8.818143206	mgmt_time: 0.000043121	numc_time: 14.662910494	total_time: 23.489396849
+[0m
+[0;36m4th run	init_time: 0.008305430	symb_time: 8.819940227	mgmt_time: 0.000032741	numc_time: 14.654229492	total_time: 23.482507890
+[0m
+[0;32mdataset: er_21_16	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.008364710	symb_time: 8.818353234	mgmt_time: 0.000039922	numc_time: 14.657674290	total_time: 23.484432156	flop_cnt: 2214794322	numc_perf: 151101346.515184432	perf: 94309042.996681154
+[0mCONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 4	AB_SIZE: 524288	AB_MIN_NUM: 2048	AB_PRT: 0.800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.008222572	symb_time: 33.520703240	mgmt_time: 0.000043787	numc_time: 56.382729912	total_time: 89.911699511
+[0m
+[0;36m1th run	init_time: 0.008502336	symb_time: 33.499611881	mgmt_time: 0.000042656	numc_time: 56.349768601	total_time: 89.857925474
+[0m
+[0;36m2th run	init_time: 0.008595520	symb_time: 33.502778107	mgmt_time: 0.000058652	numc_time: 56.351825004	total_time: 89.863257283
+[0m
+[0;36m3th run	init_time: 0.008545775	symb_time: 33.517344411	mgmt_time: 0.000045107	numc_time: 56.344723956	total_time: 89.870659249
+[0m
+[0;36m4th run	init_time: 0.008724117	symb_time: 33.509096257	mgmt_time: 0.000043195	numc_time: 56.362138965	total_time: 89.880002534
+[0m
+[0;32mdataset: er_21_32	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.008591937	symb_time: 33.507207664	mgmt_time: 0.000047402	numc_time: 56.352114132	total_time: 89.867961135	flop_cnt: 8724487282	numc_perf: 154820940.020831257	perf: 97081175.224327624
+[0m

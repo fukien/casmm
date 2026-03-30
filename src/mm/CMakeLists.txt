@@ -1,0 +1,8 @@
+include_directories(${PAPI_INC_PATH})
+link_directories(${PAPI_LIB_PATH})
+link_libraries(-lpapi)
+link_libraries(-littnotify -fopenmp)
+aux_source_directory(. DIR_LIB_SRCS)
+add_library (Mm SHARED ${DIR_LIB_SRCS})
+find_package(OpenMP REQUIRED)
+target_link_libraries(Mm PRIVATE OpenMP::OpenMP_C)

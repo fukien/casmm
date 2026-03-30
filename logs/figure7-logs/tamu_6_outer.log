@@ -1,0 +1,1829 @@
+Running on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.8470531608909369 seconds
+Input Matrix: Rows = 7122792, Columns= 7122792, nnz = 21361554
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.8478808258660138 seconds
+Input Matrix: Rows = 7122792, Columns= 7122792, nnz = 21361554
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 64071018
+
+[0;32mdataset: hugetric-00020	num_trials: 4	thread_num: -1446979152	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 0.291546488	flop_cnt: 64071018	numc_perf: 1.0	perf: 219762612.728480995
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.7837366610765457 seconds
+Input Matrix: Rows = 6592765, Columns= 6592765, nnz = 19771708
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.7860675598494709 seconds
+Input Matrix: Rows = 6592765, Columns= 6592765, nnz = 19771708
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 59301950
+
+[0;32mdataset: hugetric-00010	num_trials: 4	thread_num: -1268010416	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 0.257455192	flop_cnt: 59301950	numc_perf: 1.0	perf: 230338916.674289614
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.689937078859657 seconds
+Input Matrix: Rows = 5824554, Columns= 5824554, nnz = 17467046
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6904685753397644 seconds
+Input Matrix: Rows = 5824554, Columns= 5824554, nnz = 17467046
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 52387906
+
+[0;32mdataset: hugetric-00000	num_trials: 4	thread_num: -2060702880	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 0.213744809	flop_cnt: 52387906	numc_perf: 1.0	perf: 245095570.510640293
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.087556784972548 seconds
+Input Matrix: Rows = 6815744, Columns= 6815744, nnz = 27248640
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.091227086726576 seconds
+Input Matrix: Rows = 6815744, Columns= 6815744, nnz = 27248640
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 108951560
+
+[0;32mdataset: adaptive	num_trials: 4	thread_num: -1149841376	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 0.702171218	flop_cnt: 108951560	numc_perf: 1.0	perf: 155163807.950546443
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 2.065785679034889 seconds
+Input Matrix: Rows = 1508065, Columns= 1508065, nnz = 52259885
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 2.075816091615707 seconds
+Input Matrix: Rows = 1508065, Columns= 1508065, nnz = 52259885
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 1812538973
+
+[0;32mdataset: af_shell10	num_trials: 4	thread_num: -1369056000	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 21.545695549	flop_cnt: 1812538973	numc_perf: 1.0	perf: 84125340.435578659
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6846342352218926 seconds
+Input Matrix: Rows = 503625, Columns= 503625, nnz = 17550675
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6863077702000737 seconds
+Input Matrix: Rows = 503625, Columns= 503625, nnz = 17550675
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 612413375
+
+[0;32mdataset: af_2_k101	num_trials: 4	thread_num: 186573152	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 4.883593261	flop_cnt: 612413375	numc_perf: 1.0	perf: 125402207.411240533
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6834657788276672 seconds
+Input Matrix: Rows = 503625, Columns= 503625, nnz = 17550675
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6867901119403541 seconds
+Input Matrix: Rows = 503625, Columns= 503625, nnz = 17550675
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 612413375
+
+[0;32mdataset: af_0_k101	num_trials: 4	thread_num: 1974301440	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 4.880994085	flop_cnt: 612413375	numc_perf: 1.0	perf: 125468985.270749167
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.684029805008322 seconds
+Input Matrix: Rows = 503625, Columns= 503625, nnz = 17550675
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6884209220297635 seconds
+Input Matrix: Rows = 503625, Columns= 503625, nnz = 17550675
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 612413375
+
+[0;32mdataset: af_1_k101	num_trials: 4	thread_num: -1702078848	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 4.875420576	flop_cnt: 612413375	numc_perf: 1.0	perf: 125612419.579586849
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6879422469064593 seconds
+Input Matrix: Rows = 503625, Columns= 503625, nnz = 17550675
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6868455237708986 seconds
+Input Matrix: Rows = 503625, Columns= 503625, nnz = 17550675
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 612413375
+
+[0;32mdataset: af_5_k101	num_trials: 4	thread_num: -774028976	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 4.882573741	flop_cnt: 612413375	numc_perf: 1.0	perf: 125428392.383266568
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6848312173970044 seconds
+Input Matrix: Rows = 503625, Columns= 503625, nnz = 17550675
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6864876169711351 seconds
+Input Matrix: Rows = 503625, Columns= 503625, nnz = 17550675
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 612413375
+
+[0;32mdataset: af_3_k101	num_trials: 4	thread_num: -2004250352	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 4.887947724	flop_cnt: 612413375	numc_perf: 1.0	perf: 125290491.945873365
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6859998949803412 seconds
+Input Matrix: Rows = 503625, Columns= 503625, nnz = 17550675
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.687073867302388 seconds
+Input Matrix: Rows = 503625, Columns= 503625, nnz = 17550675
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 612413375
+
+[0;32mdataset: af_4_k101	num_trials: 4	thread_num: 1118257568	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 4.912481504	flop_cnt: 612413375	numc_perf: 1.0	perf: 124664769.636595786
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6857477673329413 seconds
+Input Matrix: Rows = 504855, Columns= 504855, nnz = 17579155
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6864676410332322 seconds
+Input Matrix: Rows = 504855, Columns= 504855, nnz = 17579155
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 612942945
+
+[0;32mdataset: af_shell7	num_trials: 4	thread_num: 1667531008	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 4.914420537	flop_cnt: 612942945	numc_perf: 1.0	perf: 124723340.301411167
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6849230309017003 seconds
+Input Matrix: Rows = 504855, Columns= 504855, nnz = 17579155
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6892186948098242 seconds
+Input Matrix: Rows = 504855, Columns= 504855, nnz = 17579155
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 612942945
+
+[0;32mdataset: af_shell5	num_trials: 4	thread_num: -1774584352	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 4.909625764	flop_cnt: 612942945	numc_perf: 1.0	perf: 124845145.933378741
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6841890620999038 seconds
+Input Matrix: Rows = 504855, Columns= 504855, nnz = 17588845
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6883536241948605 seconds
+Input Matrix: Rows = 504855, Columns= 504855, nnz = 17588845
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 613605805
+
+[0;32mdataset: af_shell9	num_trials: 4	thread_num: -274107088	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 4.912916063	flop_cnt: 613605805	numc_perf: 1.0	perf: 124896456.019043237
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6841597082093358 seconds
+Input Matrix: Rows = 504855, Columns= 504855, nnz = 17562051
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6886244313791394 seconds
+Input Matrix: Rows = 504855, Columns= 504855, nnz = 17562051
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 611776113
+
+[0;32mdataset: af_shell4	num_trials: 4	thread_num: 231793952	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 4.854544963	flop_cnt: 611776113	numc_perf: 1.0	perf: 126021309.442899987
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6943957549519837 seconds
+Input Matrix: Rows = 504855, Columns= 504855, nnz = 17579155
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6946587436832488 seconds
+Input Matrix: Rows = 504855, Columns= 504855, nnz = 17579155
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 612942945
+
+[0;32mdataset: af_shell8	num_trials: 4	thread_num: 1784342560	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 4.881874530	flop_cnt: 612942945	numc_perf: 1.0	perf: 125554833.737661764
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6830449681729078 seconds
+Input Matrix: Rows = 504855, Columns= 504855, nnz = 17562051
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6838404908776283 seconds
+Input Matrix: Rows = 504855, Columns= 504855, nnz = 17562051
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 611776113
+
+[0;32mdataset: af_shell3	num_trials: 4	thread_num: -1465886736	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 4.868367125	flop_cnt: 611776113	numc_perf: 1.0	perf: 125663512.475994661
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6850613299757242 seconds
+Input Matrix: Rows = 504855, Columns= 504855, nnz = 17562051
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6866274978965521 seconds
+Input Matrix: Rows = 504855, Columns= 504855, nnz = 17562051
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 611776113
+
+[0;32mdataset: af_shell1	num_trials: 4	thread_num: 1541136592	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 4.852723917	flop_cnt: 611776113	numc_perf: 1.0	perf: 126068600.523320183
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6870842166244984 seconds
+Input Matrix: Rows = 504855, Columns= 504855, nnz = 17579155
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6864213990047574 seconds
+Input Matrix: Rows = 504855, Columns= 504855, nnz = 17579155
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 612942945
+
+[0;32mdataset: af_shell6	num_trials: 4	thread_num: 1274916624	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 4.897754393	flop_cnt: 612942945	numc_perf: 1.0	perf: 125147750.548419908
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6867028041742742 seconds
+Input Matrix: Rows = 504855, Columns= 504855, nnz = 17562051
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6868388918228447 seconds
+Input Matrix: Rows = 504855, Columns= 504855, nnz = 17562051
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 611776113
+
+[0;32mdataset: af_shell2	num_trials: 4	thread_num: 898189424	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 4.861985633	flop_cnt: 611776113	numc_perf: 1.0	perf: 125828449.347838983
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.500819016713649 seconds
+Input Matrix: Rows = 245874, Columns= 245874, nnz = 13150496
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.50500149698928 seconds
+Input Matrix: Rows = 245874, Columns= 245874, nnz = 13150496
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 705555870
+
+[0;32mdataset: BenElechi1	num_trials: 4	thread_num: 1651041408	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 5.638479301	flop_cnt: 705555870	numc_perf: 1.0	perf: 125132297.624580368
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 3.322200248017907 seconds
+Input Matrix: Rows = 4802000, Columns= 4802000, nnz = 85362744
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 3.337675916962326 seconds
+Input Matrix: Rows = 4802000, Columns= 4802000, nnz = 85362744
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 1522677096
+
+[0;32mdataset: channel-500x100x100-b050	num_trials: 4	thread_num: -366856816	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 20.411430653	flop_cnt: 1522677096	numc_perf: 1.0	perf: 74599234.217377692
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 2.957454517949373 seconds
+Input Matrix: Rows = 8217820, Columns= 7591564, nnz = 40451632
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 2.968742719385773 seconds
+Input Matrix: Rows = 7591564, Columns= 8217820, nnz = 40451632
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 259334180
+
+[0;32mdataset: Hardesty3	num_trials: 4	thread_num: 1800104544	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 2.507977423	flop_cnt: 259334180	numc_perf: 1.0	perf: 103403713.927829325
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.5600544288754463 seconds
+Input Matrix: Rows = 1977885, Columns= 109900, nnz = 7791168
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.5563016049563885 seconds
+Input Matrix: Rows = 109900, Columns= 1977885, nnz = 7791168
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 566593952
+
+[0;32mdataset: Rucci1	num_trials: 4	thread_num: -1333290960	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 5.300229562	flop_cnt: 566593952	numc_perf: 1.0	perf: 106899889.018858284
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 9.004492685198784 seconds
+Input Matrix: Rows = 8345600, Columns= 8345600, nnz = 225422112
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 9.036751241888851 seconds
+Input Matrix: Rows = 8345600, Columns= 8345600, nnz = 225422112
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 6147589792
+
+[0;32mdataset: nlpkkt160	num_trials: 4	thread_num: -596763584	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 37.909047332	flop_cnt: 6147589792	numc_perf: 1.0	perf: 162166823.610296518
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.817548900842667 seconds
+Input Matrix: Rows = 1602111, Columns= 1602111, nnz = 45372451
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.82739564217627 seconds
+Input Matrix: Rows = 1602111, Columns= 1602111, nnz = 45372451
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 1293660335
+
+[0;32mdataset: Transport	num_trials: 4	thread_num: -62491936	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 14.532785449	flop_cnt: 1293660335	numc_perf: 1.0	perf: 89016681.592346266
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 3.774522474035621 seconds
+Input Matrix: Rows = 3542400, Columns= 3542400, nnz = 95117792
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 3.7921505831182 seconds
+Input Matrix: Rows = 3542400, Columns= 3542400, nnz = 95117792
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 2586522912
+
+[0;32mdataset: nlpkkt120	num_trials: 4	thread_num: 1967070032	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 28.039455497	flop_cnt: 2586522912	numc_perf: 1.0	perf: 92245832.386470422
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.143491730093956 seconds
+Input Matrix: Rows = 2380515, Columns= 2380515, nnz = 26515867
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.146789546124637 seconds
+Input Matrix: Rows = 2380515, Columns= 2380515, nnz = 26515867
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 297096317
+
+[0;32mdataset: CurlCurl_4	num_trials: 4	thread_num: 997923168	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 2.520265942	flop_cnt: 297096317	numc_perf: 1.0	perf: 117882923.411268622
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.56501799216494 seconds
+Input Matrix: Rows = 923136, Columns= 923136, nnz = 40373538
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.574224862270057 seconds
+Input Matrix: Rows = 923136, Columns= 923136, nnz = 40373538
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 1805146188
+
+[0;32mdataset: Emilia_923	num_trials: 4	thread_num: 1608776720	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 25.611052841	flop_cnt: 1805146188	numc_perf: 1.0	perf: 70483091.780172154
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.092491683084518 seconds
+Input Matrix: Rows = 1062400, Columns= 1062400, nnz = 28192672
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.098113378044218 seconds
+Input Matrix: Rows = 1062400, Columns= 1062400, nnz = 28192672
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 762230432
+
+[0;32mdataset: nlpkkt80	num_trials: 4	thread_num: 1761782080	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 6.294753099	flop_cnt: 762230432	numc_perf: 1.0	perf: 121089806.063355505
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.09603213518857956 seconds
+Input Matrix: Rows = 345688, Columns= 12347, nnz = 1334038
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.09088389202952385 seconds
+Input Matrix: Rows = 12347, Columns= 345688, nnz = 1334038
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 152721002
+
+[0;32mdataset: relat8	num_trials: 4	thread_num: 1114643984	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 1.156449817	flop_cnt: 152721002	numc_perf: 1.0	perf: 132060206.784262970
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 2.592125731986016 seconds
+Input Matrix: Rows = 1955309, Columns= 1548650, nnz = 35590540
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 2.583139318041503 seconds
+Input Matrix: Rows = 1548650, Columns= 1955309, nnz = 35590540
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 890282068
+
+[0;32mdataset: GL7d18	num_trials: 4	thread_num: -147438368	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 14.524100997	flop_cnt: 890282068	numc_perf: 1.0	perf: 61296879.455531433
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 2.389678870327771 seconds
+Input Matrix: Rows = 1437960, Columns= 1437960, nnz = 60236322
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 2.394772830884904 seconds
+Input Matrix: Rows = 1437960, Columns= 1437960, nnz = 60236322
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 2667051584
+
+[0;32mdataset: Geo_1438	num_trials: 4	thread_num: -882505680	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 26.999257391	flop_cnt: 2667051584	numc_perf: 1.0	perf: 98782405.212617457
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 5.081820495892316 seconds
+Input Matrix: Rows = 2911419, Columns= 2911419, nnz = 127729899
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 5.102520473301411 seconds
+Input Matrix: Rows = 2911419, Columns= 2911419, nnz = 127729899
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 5745156927
+
+[0;32mdataset: Bump_2911	num_trials: 4	thread_num: 1777532064	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 33.159324037	flop_cnt: 5745156927	numc_perf: 1.0	perf: 173259168.991029441
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.4286459977738559 seconds
+Input Matrix: Rows = 201822, Columns= 201822, nnz = 11294316
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.4316651127301157 seconds
+Input Matrix: Rows = 201822, Columns= 201822, nnz = 11294316
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 650331072
+
+[0;32mdataset: fcondp2	num_trials: 4	thread_num: 1908820928	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 5.175735799	flop_cnt: 650331072	numc_perf: 1.0	perf: 125649974.650063500
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.2842157487757504 seconds
+Input Matrix: Rows = 929901, Columns= 303645, nnz = 4020731
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.2831847541965544 seconds
+Input Matrix: Rows = 303645, Columns= 929901, nnz = 4020731
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 274217059
+
+[0;32mdataset: Hardesty2	num_trials: 4	thread_num: -340847392	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 2.246179594	flop_cnt: 274217059	numc_perf: 1.0	perf: 122081537.772200152
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.0550731793046 seconds
+Input Matrix: Rows = 638802, Columns= 638802, nnz = 27245944
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.058968451805413 seconds
+Input Matrix: Rows = 638802, Columns= 638802, nnz = 27245944
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 1215397424
+
+[0;32mdataset: Fault_639	num_trials: 4	thread_num: -342159952	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 16.265372029	flop_cnt: 1215397424	numc_perf: 1.0	perf: 74723001.835060805
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 1.858390471898019 seconds
+Input Matrix: Rows = 1548650, Columns= 955128, nnz = 25978098
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 1.858111153356731 seconds
+Input Matrix: Rows = 955128, Columns= 1548650, nnz = 25978098
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 781648356
+
+[0;32mdataset: GL7d17	num_trials: 4	thread_num: -279163888	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 11.771321646	flop_cnt: 781648356	numc_perf: 1.0	perf: 66402769.333676957
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.8920628735795617 seconds
+Input Matrix: Rows = 3712815, Columns= 3712815, nnz = 22217266
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.8939928230829537 seconds
+Input Matrix: Rows = 3712815, Columns= 3712815, nnz = 22217266
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 134781510
+
+[0;32mdataset: 333SP	num_trials: 4	thread_num: -272192128	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 0.947687704	flop_cnt: 134781510	numc_perf: 1.0	perf: 142221440.000678718
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.2984031937085092 seconds
+Input Matrix: Rows = 221119, Columns= 221119, nnz = 7666057
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.2985813431441784 seconds
+Input Matrix: Rows = 221119, Columns= 221119, nnz = 7666057
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 276737749
+
+[0;32mdataset: CO	num_trials: 4	thread_num: -1919179856	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 2.256306386	flop_cnt: 276737749	numc_perf: 1.0	perf: 122650784.830385402
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.8772599990479648 seconds
+Input Matrix: Rows = 1465137, Columns= 1465137, nnz = 21005389
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.8780197878368199 seconds
+Input Matrix: Rows = 1465137, Columns= 1465137, nnz = 21005389
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 310855795
+
+[0;32mdataset: StocF-1465	num_trials: 4	thread_num: -1716542048	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 2.509041533	flop_cnt: 310855795	numc_perf: 1.0	perf: 123894240.443539053
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 1.033456054981798 seconds
+Input Matrix: Rows = 955128, Columns= 460261, nnz = 14488881
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 1.019794970285147 seconds
+Input Matrix: Rows = 460261, Columns= 955128, nnz = 14488881
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 515644137
+
+[0;32mdataset: GL7d16	num_trials: 4	thread_num: -663214688	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 5.982201213	flop_cnt: 515644137	numc_perf: 1.0	perf: 86196388.019825995
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.9955584220588207 seconds
+Input Matrix: Rows = 4163763, Columns= 4163763, nnz = 24975952
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.9974612770602107 seconds
+Input Matrix: Rows = 4163763, Columns= 4163763, nnz = 24975952
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 152767440
+
+[0;32mdataset: NLR	num_trials: 4	thread_num: 1420112880	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 1.203370887	flop_cnt: 152767440	numc_perf: 1.0	perf: 126949589.365721539
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.8420820329338312 seconds
+Input Matrix: Rows = 3501776, Columns= 3501776, nnz = 21003872
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.8422590950503945 seconds
+Input Matrix: Rows = 3501776, Columns= 3501776, nnz = 21003872
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 128481218
+
+[0;32mdataset: M6	num_trials: 4	thread_num: 957146944	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 0.954328309	flop_cnt: 128481218	numc_perf: 1.0	perf: 134629997.629170150
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.9076071670278907 seconds
+Input Matrix: Rows = 3799275, Columns= 3799275, nnz = 22736152
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.9102892889641225 seconds
+Input Matrix: Rows = 3799275, Columns= 3799275, nnz = 22736152
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 138906828
+
+[0;32mdataset: AS365	num_trials: 4	thread_num: 405344464	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 1.062544270	flop_cnt: 138906828	numc_perf: 1.0	perf: 130730391.097696424
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.339699875097722 seconds
+Input Matrix: Rows = 2145852, Columns= 2145852, nnz = 34976486
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.354695168789476 seconds
+Input Matrix: Rows = 2145852, Columns= 2145852, nnz = 34976486
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 587282846
+
+[0;32mdataset: packing-500x100x100-b050	num_trials: 4	thread_num: 168248016	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 7.177473391	flop_cnt: 587282846	numc_perf: 1.0	perf: 81823061.406371102
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.4570006490685046 seconds
+Input Matrix: Rows = 213453, Columns= 213453, nnz = 11985111
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.4591787443496287 seconds
+Input Matrix: Rows = 213453, Columns= 213453, nnz = 11985111
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 708402807
+
+[0;32mdataset: troll	num_trials: 4	thread_num: -1754829744	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 8.047771750	flop_cnt: 708402807	numc_perf: 1.0	perf: 88024714.048197299
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.4716090718284249 seconds
+Input Matrix: Rows = 224617, Columns= 224617, nnz = 12387821
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.4743538568727672 seconds
+Input Matrix: Rows = 224617, Columns= 224617, nnz = 12387821
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 715500645
+
+[0;32mdataset: halfb	num_trials: 4	thread_num: 639920912	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 7.958141804	flop_cnt: 715500645	numc_perf: 1.0	perf: 89908003.979238793
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.4455207879655063 seconds
+Input Matrix: Rows = 199187, Columns= 199187, nnz = 11708077
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.4458900359459221 seconds
+Input Matrix: Rows = 199187, Columns= 199187, nnz = 11708077
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 720134257
+
+[0;32mdataset: fullb	num_trials: 4	thread_num: -897749600	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 7.996895330	flop_cnt: 720134257	numc_perf: 1.0	perf: 90051729.740291387
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.4325331379659474 seconds
+Input Matrix: Rows = 460261, Columns= 171375, nnz = 6080381
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.4242835971526802 seconds
+Input Matrix: Rows = 171375, Columns= 460261, nnz = 6080381
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 250472501
+
+[0;32mdataset: GL7d15	num_trials: 4	thread_num: -444061120	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 2.428005014	flop_cnt: 250472501	numc_perf: 1.0	perf: 103159795.617991835
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.2502465830184519 seconds
+Input Matrix: Rows = 448695, Columns= 448695, nnz = 6629222
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.2506113778799772 seconds
+Input Matrix: Rows = 448695, Columns= 448695, nnz = 6629222
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 101247158
+
+[0;32mdataset: auto	num_trials: 4	thread_num: -730396848	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 0.517536101	flop_cnt: 101247158	numc_perf: 1.0	perf: 195633034.803415477
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.3998232642188668 seconds
+Input Matrix: Rows = 148770, Columns= 148770, nnz = 10641602
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.4021703307516873 seconds
+Input Matrix: Rows = 148770, Columns= 148770, nnz = 10641602
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 812011488
+
+[0;32mdataset: bmwcra_1	num_trials: 4	thread_num: 702196112	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 9.642551299	flop_cnt: 812011488	numc_perf: 1.0	perf: 84211269.695653334
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 2.515762077178806 seconds
+Input Matrix: Rows = 1391349, Columns= 1391349, nnz = 64131971
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 2.526638932991773 seconds
+Input Matrix: Rows = 1391349, Columns= 1391349, nnz = 64131971
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 3092811577
+
+[0;32mdataset: Serena	num_trials: 4	thread_num: 1623841312	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 25.583257376	flop_cnt: 3092811577	numc_perf: 1.0	perf: 120892016.662793174
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.974322450812906 seconds
+Input Matrix: Rows = 8388608, Columns= 8388608, nnz = 50331568
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.981509879231453 seconds
+Input Matrix: Rows = 8388608, Columns= 8388608, nnz = 50331568
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 316961668
+
+[0;32mdataset: delaunay_n23	num_trials: 4	thread_num: 303954640	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 4.001920859	flop_cnt: 316961668	numc_perf: 1.0	perf: 79202382.841002241
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.9898993070237339 seconds
+Input Matrix: Rows = 4194304, Columns= 4194304, nnz = 25165738
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.9926303811371326 seconds
+Input Matrix: Rows = 4194304, Columns= 4194304, nnz = 25165738
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 158484602
+
+[0;32mdataset: delaunay_n22	num_trials: 4	thread_num: -889331904	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 1.268965815	flop_cnt: 158484602	numc_perf: 1.0	perf: 124892727.686109424
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.7395850094035268 seconds
+Input Matrix: Rows = 415863, Columns= 415863, nnz = 19173163
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.7403528303839266 seconds
+Input Matrix: Rows = 415863, Columns= 415863, nnz = 19173163
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 961995113
+
+[0;32mdataset: msdoor	num_trials: 4	thread_num: 1986864128	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 13.216509222	flop_cnt: 961995113	numc_perf: 1.0	perf: 72787382.571737930
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.645404776092619 seconds
+Input Matrix: Rows = 952203, Columns= 952203, nnz = 42493817
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.653210896067321 seconds
+Input Matrix: Rows = 952203, Columns= 952203, nnz = 42493817
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 2104231387
+
+[0;32mdataset: ldoor	num_trials: 4	thread_num: 370013104	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 23.357133303	flop_cnt: 2104231387	numc_perf: 1.0	perf: 90089454.029528633
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 2.687977804802358 seconds
+Input Matrix: Rows = 1453908, Columns= 1453908, nnz = 37475646
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 2.709383253008127 seconds
+Input Matrix: Rows = 1453908, Columns= 1453908, nnz = 37475646
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 1270061806
+
+[0;32mdataset: nv2	num_trials: 4	thread_num: -1428481360	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 22.722589924	flop_cnt: 1270061806	numc_perf: 1.0	perf: 55894236.099029362
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 4.957336646970361 seconds
+Input Matrix: Rows = 8388608, Columns= 8388608, nnz = 127002786
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 4.974151789210737 seconds
+Input Matrix: Rows = 8388608, Columns= 8388608, nnz = 127002786
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 2050055514
+
+[0;32mdataset: rgg_n_2_23_s0	num_trials: 4	thread_num: -475650704	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 20.147969587	flop_cnt: 2050055514	numc_perf: 1.0	perf: 101749980.570440605
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.3269057627767324 seconds
+Input Matrix: Rows = 108384, Columns= 108384, nnz = 8713602
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.3267633491195738 seconds
+Input Matrix: Rows = 108384, Columns= 108384, nnz = 8713602
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 822617584
+
+[0;32mdataset: x104	num_trials: 4	thread_num: -1583247552	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 12.114933591	flop_cnt: 822617584	numc_perf: 1.0	perf: 67901122.019176245
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 2.35967184882611 seconds
+Input Matrix: Rows = 4194304, Columns= 4194304, nnz = 60718396
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 2.372116398997605 seconds
+Input Matrix: Rows = 4194304, Columns= 4194304, nnz = 60718396
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 939942910
+
+[0;32mdataset: rgg_n_2_22_s0	num_trials: 4	thread_num: 981572320	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 15.317375203	flop_cnt: 939942910	numc_perf: 1.0	perf: 61364489.511753708
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.2450040560215712 seconds
+Input Matrix: Rows = 403394, Columns= 403394, nnz = 3387388
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.2407610923983157 seconds
+Input Matrix: Rows = 403394, Columns= 403394, nnz = 3387388
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 122605698
+
+[0;32mdataset: amazon0601	num_trials: 4	thread_num: -953272496	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 1.183641745	flop_cnt: 122605698	numc_perf: 1.0	perf: 103583452.112009093
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.116827563382685 seconds
+Input Matrix: Rows = 2097152, Columns= 2097152, nnz = 28975990
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.123448874801397 seconds
+Input Matrix: Rows = 2097152, Columns= 2097152, nnz = 28975990
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 429575072
+
+[0;32mdataset: rgg_n_2_21_s0	num_trials: 4	thread_num: -1814928912	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 5.799525410	flop_cnt: 429575072	numc_perf: 1.0	perf: 74070728.482277930
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.4809619560837746 seconds
+Input Matrix: Rows = 181343, Columns= 181343, nnz = 6869939
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.4816540097817779 seconds
+Input Matrix: Rows = 181343, Columns= 181343, nnz = 6869939
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 312427813
+
+[0;32mdataset: ohne2	num_trials: 4	thread_num: 530646704	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 3.362248615	flop_cnt: 312427813	numc_perf: 1.0	perf: 92922281.702112556
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 7.260564664844424 seconds
+Input Matrix: Rows = 5154859, Columns= 5154859, nnz = 99199551
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 7.342204560060054 seconds
+Input Matrix: Rows = 5154859, Columns= 5154859, nnz = 99199551
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 2078631615
+
+[0;32mdataset: cage15	num_trials: 4	thread_num: 1227625168	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 22.889990181	flop_cnt: 2078631615	numc_perf: 1.0	perf: 90809633.320000231
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 1.952170397620648 seconds
+Input Matrix: Rows = 1505785, Columns= 1505785, nnz = 27130349
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 1.958949110005051 seconds
+Input Matrix: Rows = 1505785, Columns= 1505785, nnz = 27130349
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 532205737
+
+[0;32mdataset: cage14	num_trials: 4	thread_num: 1729509344	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 7.918918250	flop_cnt: 532205737	numc_perf: 1.0	perf: 67206873.486250162
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.2404184471815825 seconds
+Input Matrix: Rows = 410236, Columns= 410236, nnz = 3356824
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.2372948466800153 seconds
+Input Matrix: Rows = 410236, Columns= 410236, nnz = 3356824
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 123669570
+
+[0;32mdataset: amazon0505	num_trials: 4	thread_num: -2043590080	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 1.151868595	flop_cnt: 123669570	numc_perf: 1.0	perf: 107364304.037959769
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.52735485881567 seconds
+Input Matrix: Rows = 445315, Columns= 445315, nnz = 7479343
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.529144027736038 seconds
+Input Matrix: Rows = 445315, Columns= 445315, nnz = 7479343
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 137332191
+
+[0;32mdataset: cage13	num_trials: 4	thread_num: -1749473696	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 0.909707951	flop_cnt: 137332191	numc_perf: 1.0	perf: 150962944.549784034
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.6638150908984244 seconds
+Input Matrix: Rows = 392908, Columns= 392908, nnz = 9447535
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.6631688349880278 seconds
+Input Matrix: Rows = 392908, Columns= 392908, nnz = 9447535
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 301925949
+
+[0;32mdataset: test1	num_trials: 4	thread_num: 771669424	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 3.021876707	flop_cnt: 301925949	numc_perf: 1.0	perf: 99913390.995817810
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.3891650168225169 seconds
+Input Matrix: Rows = 223104, Columns= 223104, nnz = 5526637
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.38908946281299 seconds
+Input Matrix: Rows = 223104, Columns= 223104, nnz = 5526637
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 185557433
+
+[0;32mdataset: radiation	num_trials: 4	thread_num: 713971232	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 1.320674916	flop_cnt: 185557433	numc_perf: 1.0	perf: 140501974.191318631
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.230878917966038 seconds
+Input Matrix: Rows = 400727, Columns= 400727, nnz = 3200440
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.2264428930357099 seconds
+Input Matrix: Rows = 400727, Columns= 400727, nnz = 3200440
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 116610462
+
+[0;32mdataset: amazon0312	num_trials: 4	thread_num: 1745007040	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 0.969842783	flop_cnt: 116610462	numc_perf: 1.0	perf: 120236459.020903930
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 1.292346743866801 seconds
+Input Matrix: Rows = 3428755, Columns= 3428755, nnz = 17052626
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 1.296061619184911 seconds
+Input Matrix: Rows = 3428755, Columns= 3428755, nnz = 17052626
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 90325256
+
+[0;32mdataset: Freescale1	num_trials: 4	thread_num: -1543947968	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 0.512186560	flop_cnt: 90325256	numc_perf: 1.0	perf: 176352257.363507748
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.893306836951524 seconds
+Input Matrix: Rows = 1157456, Columns= 1157456, nnz = 48538952
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.900518635287881 seconds
+Input Matrix: Rows = 1157456, Columns= 1157456, nnz = 48538952
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 2337362192
+
+[0;32mdataset: dielFilterV2real	num_trials: 4	thread_num: 263961856	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 22.806288520	flop_cnt: 2337362192	numc_perf: 1.0	perf: 102487618.271907821
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6088954298757017 seconds
+Input Matrix: Rows = 161070, Columns= 161070, nnz = 16209202
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.6113729071803391 seconds
+Input Matrix: Rows = 161070, Columns= 161070, nnz = 16209202
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 1861867250
+
+[0;32mdataset: PR02R	num_trials: 4	thread_num: 2012365584	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 19.263600784	flop_cnt: 1861867250	numc_perf: 1.0	perf: 96652088.611646026
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 2.341887095943093 seconds
+Input Matrix: Rows = 1498023, Columns= 1498023, nnz = 59374451
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 2.352572599891573 seconds
+Input Matrix: Rows = 1498023, Columns= 1498023, nnz = 59374451
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 2690351849
+
+[0;32mdataset: Hook_1498	num_trials: 4	thread_num: -1262668912	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 20.777732773	flop_cnt: 2690351849	numc_perf: 1.0	perf: 129482455.012033597
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.430872763972729 seconds
+Input Matrix: Rows = 742793, Columns= 742793, nnz = 37138461
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 1.439061673823744 seconds
+Input Matrix: Rows = 742793, Columns= 742793, nnz = 37138461
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 2153163125
+
+[0;32mdataset: PFlow_742	num_trials: 4	thread_num: 2056275872	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 19.195908146	flop_cnt: 2153163125	numc_perf: 1.0	perf: 112167817.675778762
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 1.412429051008075 seconds
+Input Matrix: Rows = 491100, Columns= 491100, nnz = 20239237
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 1.421444940846413 seconds
+Input Matrix: Rows = 491100, Columns= 491100, nnz = 20239237
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 963431675
+
+[0;32mdataset: fem_hifreq_circuit	num_trials: 4	thread_num: -1844433360	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 14.238760244	flop_cnt: 963431675	numc_perf: 1.0	perf: 67662609.560600847
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 1.896399958059192 seconds
+Input Matrix: Rows = 1200611, Columns= 1200611, nnz = 26606169
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 1.90951723465696 seconds
+Input Matrix: Rows = 1200611, Columns= 1200611, nnz = 26606169
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 823556881
+
+[0;32mdataset: dgreen	num_trials: 4	thread_num: -293361488	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 12.588386822	flop_cnt: 823556881	numc_perf: 1.0	perf: 65421955.383054614
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.9827359681949019 seconds
+Input Matrix: Rows = 607232, Columns= 607232, nnz = 25309272
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.9857928128913045 seconds
+Input Matrix: Rows = 607232, Columns= 607232, nnz = 25309272
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 1241976752
+
+[0;32mdataset: dielFilterV2clx	num_trials: 4	thread_num: -1880444944	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 19.648408711	flop_cnt: 1241976752	numc_perf: 1.0	perf: 63210042.618980728
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.8460154770873487 seconds
+Input Matrix: Rows = 589446, Columns= 589446, nnz = 21758924
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.8483555382117629 seconds
+Input Matrix: Rows = 589446, Columns= 589446, nnz = 21758924
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 947250936
+
+[0;32mdataset: gsm_106857	num_trials: 4	thread_num: 1195786320	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 15.761996400	flop_cnt: 947250936	numc_perf: 1.0	perf: 60097142.009839006
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 1.080735527910292 seconds
+Input Matrix: Rows = 680943, Columns= 680943, nnz = 15417375
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 1.085152816958725 seconds
+Input Matrix: Rows = 680943, Columns= 680943, nnz = 15417375
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 402731077
+
+[0;32mdataset: 3Dspectralwave	num_trials: 4	thread_num: -311083056	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 3.489181695	flop_cnt: 402731077	numc_perf: 1.0	perf: 115422787.407688633
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.555629460606724 seconds
+Input Matrix: Rows = 151926, Columns= 151926, nnz = 14836504
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.5563759878277779 seconds
+Input Matrix: Rows = 151926, Columns= 151926, nnz = 14836504
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 1777485814
+
+[0;32mdataset: pkustk14	num_trials: 4	thread_num: 870310016	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 19.385570332	flop_cnt: 1777485814	numc_perf: 1.0	perf: 91691179.758199960
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.4089038539677858 seconds
+Input Matrix: Rows = 240369, Columns= 240369, nnz = 10661631
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.4118340103887022 seconds
+Input Matrix: Rows = 240369, Columns= 240369, nnz = 10661631
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 851575071
+
+[0;32mdataset: Si87H76	num_trials: 4	thread_num: -1237327376	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 10.666683411	flop_cnt: 851575071	numc_perf: 1.0	perf: 79835037.586243704
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 2.512236068025231 seconds
+Input Matrix: Rows = 1652680, Columns= 1652680, nnz = 34753577
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 2.529456879943609 seconds
+Input Matrix: Rows = 1652680, Columns= 1652680, nnz = 34753577
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 815913359
+
+[0;32mdataset: ss	num_trials: 4	thread_num: 1204982672	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 11.484241192	flop_cnt: 815913359	numc_perf: 1.0	perf: 71046344.759958535
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.3907469119876623 seconds
+Input Matrix: Rows = 735323, Columns= 735323, nnz = 10316776
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.3916676859371364 seconds
+Input Matrix: Rows = 735323, Columns= 735323, nnz = 10316776
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 218165528
+
+[0;32mdataset: amazon-2008	num_trials: 4	thread_num: -804423696	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 1.687824582	flop_cnt: 218165528	numc_perf: 1.0	perf: 129258413.622312441
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.2199023030698299 seconds
+Input Matrix: Rows = 1000005, Columns= 1000005, nnz = 3105536
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.2187943640165031 seconds
+Input Matrix: Rows = 1000005, Columns= 1000005, nnz = 3105536
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 1369780052
+
+[0;32mdataset: webbase-1M	num_trials: 4	thread_num: -1699522736	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 78.258032585	flop_cnt: 1369780052	numc_perf: 1.0	perf: 17503379.611797210
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.4084776579402387 seconds
+Input Matrix: Rows = 659033, Columns= 659033, nnz = 5834044
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.4097337210550904 seconds
+Input Matrix: Rows = 659033, Columns= 659033, nnz = 5834044
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 539293014
+
+[0;32mdataset: pre2	num_trials: 4	thread_num: 730203024	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 5.132992054	flop_cnt: 539293014	numc_perf: 1.0	perf: 105064065.617771044
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 4.717479612678289 seconds
+Input Matrix: Rows = 2146677, Columns= 2146677, nnz = 65129037
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 4.74063733080402 seconds
+Input Matrix: Rows = 2146677, Columns= 2146677, nnz = 65129037
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 6947576135
+
+Running on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.2302473983727396 seconds
+Input Matrix: Rows = 113081, Columns= 113081, nnz = 6115633
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.2303651943802834 seconds
+Input Matrix: Rows = 113081, Columns= 113081, nnz = 6115633
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 1098110645
+
+[0;32mdataset: Ga10As10H30	num_trials: 4	thread_num: -1453698720	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 11.744096096	flop_cnt: 1098110645	numc_perf: 1.0	perf: 93503206.715783149
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 1.73875495698303 seconds
+Input Matrix: Rows = 9888048, Columns= 274669, nnz = 23667183
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 1.695640827994794 seconds
+Input Matrix: Rows = 274669, Columns= 9888048, nnz = 23667183
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 2099952367
+
+[0;32mdataset: rel9	num_trials: 4	thread_num: 1821795232	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 34.644898374	flop_cnt: 2099952367	numc_perf: 1.0	perf: 60613610.245288454
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 2.457715639378875 seconds
+Input Matrix: Rows = 1090664, Columns= 1090664, nnz = 34767207
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 2.469275748822838 seconds
+Input Matrix: Rows = 1090664, Columns= 1090664, nnz = 34767207
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 4385767375
+
+[0;32mdataset: vas_stokes_1M	num_trials: 4	thread_num: -730845696	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 49.471154375	flop_cnt: 4385767375	numc_perf: 1.0	perf: 88653022.763804451
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.5628634858876467 seconds
+Input Matrix: Rows = 2063494, Columns= 2063494, nnz = 12771361
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.5665240646339953 seconds
+Input Matrix: Rows = 2063494, Columns= 2063494, nnz = 12771361
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 165686781
+
+[0;32mdataset: kkt_power	num_trials: 4	thread_num: 768205024	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 1.431194147	flop_cnt: 165686781	numc_perf: 1.0	perf: 115768207.523242936
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.1038524573668838 seconds
+Input Matrix: Rows = 345241, Columns= 345241, nnz = 2340859
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.1022259001620114 seconds
+Input Matrix: Rows = 345241, Columns= 345241, nnz = 2340859
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 474408523
+
+[0;32mdataset: c-big	num_trials: 4	thread_num: 887789296	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 20.763228384	flop_cnt: 474408523	numc_perf: 1.0	perf: 22848495.148203526
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.2975871260277927 seconds
+Input Matrix: Rows = 112985, Columns= 112985, nnz = 7892195
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.2982257017865777 seconds
+Input Matrix: Rows = 112985, Columns= 112985, nnz = 7892195
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 1469531179
+
+[0;32mdataset: Ge87H76	num_trials: 4	thread_num: -467845264	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 14.483537843	flop_cnt: 1469531179	numc_perf: 1.0	perf: 101462170.015248001
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.3360353060998023 seconds
+Input Matrix: Rows = 133123, Columns= 133123, nnz = 8884839
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.3366266079246998 seconds
+Input Matrix: Rows = 133123, Columns= 133123, nnz = 8884839
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 2010298639
+
+[0;32mdataset: Ga19As19H42	num_trials: 4	thread_num: -1889029808	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 25.771834895	flop_cnt: 2010298639	numc_perf: 1.0	perf: 78003706.262288138
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.3181088720448315 seconds
+Input Matrix: Rows = 112985, Columns= 112985, nnz = 8451395
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.3189887311309576 seconds
+Input Matrix: Rows = 112985, Columns= 112985, nnz = 8451395
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 1642015363
+
+[0;32mdataset: Ge99H100	num_trials: 4	thread_num: 511443040	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 17.347035432	flop_cnt: 1642015363	numc_perf: 1.0	perf: 94656828.796340138
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.0324659887701273 seconds
+Input Matrix: Rows = 265214, Columns= 265214, nnz = 420045
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.02898532012477517 seconds
+Input Matrix: Rows = 265214, Columns= 265214, nnz = 420045
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 354522447
+
+[0;32mdataset: email-EuAll	num_trials: 4	thread_num: 944405456	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 5.122505548	flop_cnt: 354522447	numc_perf: 1.0	perf: 69208797.081415683
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.3657707050442696 seconds
+Input Matrix: Rows = 916428, Columns= 916428, nnz = 5105039
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.3649322870187461 seconds
+Input Matrix: Rows = 916428, Columns= 916428, nnz = 5105039
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 1377405573
+
+[0;32mdataset: web-Google	num_trials: 4	thread_num: -287773584	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 15.924188022	flop_cnt: 1377405573	numc_perf: 1.0	perf: 86497695.903502658
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.09185528801754117 seconds
+Input Matrix: Rows = 324085, Columns= 324085, nnz = 1208908
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.08348018117249012 seconds
+Input Matrix: Rows = 324085, Columns= 324085, nnz = 1208908
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 1724710762
+
+[0;32mdataset: Linux_call_graph	num_trials: 4	thread_num: 2127577264	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 34.546443779	flop_cnt: 1724710762	numc_perf: 1.0	perf: 49924408.226061843
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 1.115024927072227 seconds
+Input Matrix: Rows = 3774768, Columns= 3774768, nnz = 14970767
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 1.094580844044685 seconds
+Input Matrix: Rows = 3774768, Columns= 3774768, nnz = 14970767
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 178292053
+
+[0;32mdataset: patents	num_trials: 4	thread_num: -225722992	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 1.994171868	flop_cnt: 178292053	numc_perf: 1.0	perf: 89406563.122266233
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.2253977851942182 seconds
+Input Matrix: Rows = 325557, Columns= 325557, nnz = 3216152
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.225935647264123 seconds
+Input Matrix: Rows = 325557, Columns= 325557, nnz = 3216152
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 15574082986
+
+Running on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 1.230085898190737 seconds
+Input Matrix: Rows = 3774768, Columns= 3774768, nnz = 16518948
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 1.209312311839312 seconds
+Input Matrix: Rows = 3774768, Columns= 3774768, nnz = 16518948
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 239453700
+
+[0;32mdataset: cit-Patents	num_trials: 4	thread_num: 1736087680	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 2.958824968	flop_cnt: 239453700	numc_perf: 1.0	perf: 80928646.537902728
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.06808636104688048 seconds
+Input Matrix: Rows = 325729, Columns= 325729, nnz = 929849
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.06462338892742991 seconds
+Input Matrix: Rows = 325729, Columns= 325729, nnz = 929849
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 418009635
+
+[0;32mdataset: NotreDame_www	num_trials: 4	thread_num: -1254380688	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 9.759577076	flop_cnt: 418009635	numc_perf: 1.0	perf: 42830712.000837825
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.1054691001772881 seconds
+Input Matrix: Rows = 325729, Columns= 325729, nnz = 1497134
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.1056937691755593 seconds
+Input Matrix: Rows = 325729, Columns= 325729, nnz = 1497134
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 503567738
+
+[0;32mdataset: web-NotreDame	num_trials: 4	thread_num: 986588560	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 12.389423394	flop_cnt: 503567738	numc_perf: 1.0	perf: 40644969.664495587
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.05874866805970669 seconds
+Input Matrix: Rows = 131828, Columns= 131828, nnz = 841372
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.05683726537972689 seconds
+Input Matrix: Rows = 131828, Columns= 131828, nnz = 841372
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 164519644
+
+[0;32mdataset: soc-sign-epinions	num_trials: 4	thread_num: 1937738896	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 3.156946808	flop_cnt: 164519644	numc_perf: 1.0	perf: 52113530.570685193
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.2276543793268502 seconds
+Input Matrix: Rows = 1140149, Columns= 1140149, nnz = 3309592
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.2445452646352351 seconds
+Input Matrix: Rows = 1140149, Columns= 1140149, nnz = 3309592
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 332610984
+
+[0;32mdataset: wiki-talk-temporal	num_trials: 4	thread_num: -2046179872	numa_mask: placeholder	init_time: 1.0	symb_time: 1.0	mgmt_time: 1.0	numc_time: 1.0	total_time: 18.841277251	flop_cnt: 332610984	numc_perf: 1.0	perf: 17653314.028281052
+[0mnumactl: execution of `./bin/outerspgemm': No such file or directory
+
+numactl: execution of `./bin/outerspgemm': No such file or directory
+
+numactl: execution of `./bin/outerspgemm': No such file or directory
+
+numactl: execution of `./bin/outerspgemm': No such file or directory
+
+numactl: execution of `./bin/outerspgemm': No such file or directory
+
+numactl: execution of `./bin/outerspgemm': No such file or directory
+
+numactl: execution of `./bin/outerspgemm': No such file or directory
+
+numactl: execution of `./bin/outerspgemm': No such file or directory
+
+numactl: execution of `./bin/outerspgemm': No such file or directory
+
+numactl: execution of `./bin/outerspgemm': No such file or directory
+
+numactl: execution of `./bin/outerspgemm': No such file or directory
+
+numactl: execution of `./bin/outerspgemm': No such file or directory
+
+numactl: execution of `./bin/outerspgemm': No such file or directory
+
+Running on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.05919533292762935 seconds
+Input Matrix: Rows = 200200, Columns= 200200, nnz = 800800
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.05765738012269139 seconds
+Input Matrix: Rows = 200200, Columns= 200200, nnz = 800800
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 3203200
+
+[0;32mdataset: m133-b3	num_trials: 4	thread_num: 32	numa_mask: placeholder	init_time: 1.0	symb_time: 0.000415249	mgmt_time: 1.0	numc_time: 0.011149122	total_time: 0.011566265	flop_cnt: 3203200	numc_perf: 1.0	perf: 276943323.134605527
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.06030363286845386 seconds
+Input Matrix: Rows = 200200, Columns= 200200, nnz = 800800
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.05983450287021697 seconds
+Input Matrix: Rows = 200200, Columns= 200200, nnz = 800800
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 3203200
+
+[0;32mdataset: shar_te2-b3	num_trials: 4	thread_num: 32	numa_mask: placeholder	init_time: 1.0	symb_time: 0.000464788	mgmt_time: 1.0	numc_time: 0.011156661	total_time: 0.011622989	flop_cnt: 3203200	numc_perf: 1.0	perf: 275591770.848852575
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.2514928998425603 seconds
+Input Matrix: Rows = 564480, Columns= 376320, nnz = 3386880
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.2498542359098792 seconds
+Input Matrix: Rows = 376320, Columns= 564480, nnz = 3386880
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 30481920
+
+[0;32mdataset: ch8-8-b5	num_trials: 4	thread_num: 32	numa_mask: placeholder	init_time: 1.0	symb_time: 0.001493549	mgmt_time: 1.0	numc_time: 0.112345945	total_time: 0.113841678	flop_cnt: 30481920	numc_perf: 1.0	perf: 267757120.297030568
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.04563864297233522 seconds
+Input Matrix: Rows = 200200, Columns= 17160, nnz = 600600
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.04183807014487684 seconds
+Input Matrix: Rows = 17160, Columns= 200200, nnz = 600600
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 21021000
+
+[0;32mdataset: shar_te2-b2	num_trials: 4	thread_num: 32	numa_mask: placeholder	init_time: 1.0	symb_time: 0.000348609	mgmt_time: 1.0	numc_time: 0.076624358	total_time: 0.076974874	flop_cnt: 21021000	numc_perf: 1.0	perf: 273089111.916255772
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.05040312488563359 seconds
+Input Matrix: Rows = 141120, Columns= 58800, nnz = 705600
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.05010251887142658 seconds
+Input Matrix: Rows = 58800, Columns= 141120, nnz = 705600
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 8467200
+
+[0;32mdataset: ch7-8-b4	num_trials: 4	thread_num: 32	numa_mask: placeholder	init_time: 1.0	symb_time: 0.000371998	mgmt_time: 1.0	numc_time: 0.028169265	total_time: 0.028543121	flop_cnt: 8467200	numc_perf: 1.0	perf: 296645910.545333982
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.06256873486563563 seconds
+Input Matrix: Rows = 141120, Columns= 141120, nnz = 846720
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.06241968902759254 seconds
+Input Matrix: Rows = 141120, Columns= 141120, nnz = 846720
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 5080320
+
+[0;32mdataset: ch7-8-b5	num_trials: 4	thread_num: 32	numa_mask: placeholder	init_time: 1.0	symb_time: 0.000461562	mgmt_time: 1.0	numc_time: 0.016717099	total_time: 0.017180170	flop_cnt: 5080320	numc_perf: 1.0	perf: 295708365.256120920
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.03508426994085312 seconds
+Input Matrix: Rows = 117600, Columns= 18816, nnz = 470400
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.03244057996198535 seconds
+Input Matrix: Rows = 18816, Columns= 117600, nnz = 470400
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 11760000
+
+[0;32mdataset: ch8-8-b3	num_trials: 4	thread_num: 32	numa_mask: placeholder	init_time: 1.0	symb_time: 0.000316756	mgmt_time: 1.0	numc_time: 0.040788406	total_time: 0.041106781	flop_cnt: 11760000	numc_perf: 1.0	perf: 286084186.918917418
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.130501066101715 seconds
+Input Matrix: Rows = 198895, Columns= 163215, nnz = 1790055
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.1316627319902182 seconds
+Input Matrix: Rows = 163215, Columns= 198895, nnz = 1790055
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 20237355
+
+[0;32mdataset: n4c6-b8	num_trials: 4	thread_num: 32	numa_mask: placeholder	init_time: 1.0	symb_time: 0.000792853	mgmt_time: 1.0	numc_time: 0.072315326	total_time: 0.073110092	flop_cnt: 20237355	numc_perf: 1.0	perf: 276806586.338275611
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.09473926690407097 seconds
+Input Matrix: Rows = 163215, Columns= 104115, nnz = 1305720
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.09535354794934392 seconds
+Input Matrix: Rows = 104115, Columns= 163215, nnz = 1305720
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 16713510
+
+[0;32mdataset: n4c6-b7	num_trials: 4	thread_num: 32	numa_mask: placeholder	init_time: 1.0	symb_time: 0.000621103	mgmt_time: 1.0	numc_time: 0.058542036	total_time: 0.059165199	flop_cnt: 16713510	numc_perf: 1.0	perf: 282488867.600128353
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.1889933489728719 seconds
+Input Matrix: Rows = 423360, Columns= 317520, nnz = 2540160
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.1894899639301002 seconds
+Input Matrix: Rows = 317520, Columns= 423360, nnz = 2540160
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 20321280
+
+[0;32mdataset: ch7-9-b5	num_trials: 4	thread_num: 32	numa_mask: placeholder	init_time: 1.0	symb_time: 0.001153736	mgmt_time: 1.0	numc_time: 0.074618736	total_time: 0.075774459	flop_cnt: 20321280	numc_perf: 1.0	perf: 268181128.055567205
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.1179871691856533 seconds
+Input Matrix: Rows = 317520, Columns= 105840, nnz = 1587600
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.1162609250750393 seconds
+Input Matrix: Rows = 105840, Columns= 317520, nnz = 1587600
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 23814000
+
+[0;32mdataset: ch7-9-b4	num_trials: 4	thread_num: 32	numa_mask: placeholder	init_time: 1.0	symb_time: 0.000779555	mgmt_time: 1.0	numc_time: 0.088904649	total_time: 0.089685938	flop_cnt: 23814000	numc_perf: 1.0	perf: 265526576.065883189
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Converting matrix data from ASCII to COO format: 0.140403816010803 seconds
+Input Matrix: Rows = 376320, Columns= 117600, nnz = 1881600
+Converting to csc ... 
+
+Converting matrix data from ASCII to COO format: 0.1396831190213561 seconds
+Input Matrix: Rows = 117600, Columns= 376320, nnz = 1881600
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 30105600
+
+[0;32mdataset: ch8-8-b4	num_trials: 4	thread_num: 32	numa_mask: placeholder	init_time: 1.0	symb_time: 0.000937108	mgmt_time: 1.0	numc_time: 0.112213977	total_time: 0.113152771	flop_cnt: 30105600	numc_perf: 1.0	perf: 266061535.321294159
+[0mRunning on 32 processors
+
+reading input matrices in text (ascii)... 
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.1640216209925711 seconds
+Input Matrix: Rows = 1048576, Columns= 1048576, nnz = 4194298
+Converting to csc ... 
+
+Matrix is symmetric
+Converting matrix data from ASCII to COO format: 0.1657334722112864 seconds
+Input Matrix: Rows = 1048576, Columns= 1048576, nnz = 4194298
+Converting to csc ... 
+
+Total number of floating-point operations including addition and multiplication in SpGEMM (A * B): 16777178
+
+[0;32mdataset: debr	num_trials: 4	thread_num: 32	numa_mask: placeholder	init_time: 1.0	symb_time: 0.002495650	mgmt_time: 1.0	numc_time: 0.059579394	total_time: 0.062077069	flop_cnt: 16777178	numc_perf: 1.0	perf: 270263695.261322975
+[0m

@@ -1,0 +1,16 @@
+CONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	HASH_CONSTANT: 2654435761	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 16	AB_SIZE: 524288	AB_MIN_NUM: 32768	AB_PRT: 0.850000	AB_DNR	DAHA	DAHA_REAR	DAHA_QUANTILE: 0.990000	DAHA_SYMB_THRES: 6000000	DAHA_NUMC_THRES: 800000	DN_MIN: 4	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+[0;36m0th run	init_time: 0.007720284	symb_time: 0.097123857	mgmt_time: 0.000014408	numc_time: 0.970265101	total_time: 1.075123650
+[0m
+[0;36m1th run	init_time: 0.007149677	symb_time: 0.097934193	mgmt_time: 0.000014265	numc_time: 0.972967756	total_time: 1.078065891
+[0m
+[0;36m2th run	init_time: 0.007172901	symb_time: 0.098185684	mgmt_time: 0.000025959	numc_time: 0.972733491	total_time: 1.078118035
+[0m
+[0;36m3th run	init_time: 0.007150339	symb_time: 0.097831380	mgmt_time: 0.000015321	numc_time: 0.971029154	total_time: 1.076026194
+[0m
+[PAPI-numc] PAPI_event_name_perf::PERF_COUNT_HW_CACHE_MISSES:	13901295
+[PAPI-numc] PAPI_event_name_perf::PERF_COUNT_HW_CACHE_REFERENCES:	107708734
+[PAPI-numc] PAPI_event_name_PAPI_TOT_INS:	57165782215
+[0;36m4th run	init_time: 0.007242125	symb_time: 0.098510418	mgmt_time: 0.000026118	numc_time: 0.974847268	total_time: 1.080625929
+[0m
+[0;32mdataset: webbase-1M	num_trials: 4	thread_num: 32	numa_mask: 6	init_time: 0.007178761	symb_time: 0.098115419	mgmt_time: 0.000020416	numc_time: 0.972894417	total_time: 1.078209012	flop_cnt: 1369780052	numc_perf: 1407943172.160288334	perf: 1270421631.091314554
+[0m

@@ -1,0 +1,205 @@
+CONFIGURATION:	USE_HYPERTHREADING	USE_WEIGHTED_INTERLEAVING	HASH_CONSTANT: 2654435761	THREAD_NUM: 32	AB_HIGH_THREAD_NUM: 16	AB_SIZE: 524288	AB_MIN_NUM: 32768	AB_PRT: 0.900000	AB_DNR	DAHA	DAHA_REAR	DAHA_QUANTILE: 0.990000	DAHA_SYMB_THRES: 6000000	DAHA_NUMC_THRES: 800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000
+	0_intprod: 1762633100
+	1_intprod: 666241701
+	2_intprod: 666255477
+	3_intprod: 240729513
+	4_intprod: 665066540
+	5_intprod: 237526971
+	6_intprod: 236329635
+	7_intprod: 84595278
+	8_intprod: 664570022
+	9_intprod: 236859697
+	10_intprod: 237732309
+	11_intprod: 83507176
+	12_intprod: 235423852
+	13_intprod: 81675575
+	14_intprod: 80892209
+	15_intprod: 30635171
+	16_intprod: 662186444
+	17_intprod: 238204643
+	18_intprod: 236008953
+	19_intprod: 83645235
+	20_intprod: 239085103
+	21_intprod: 81778435
+	22_intprod: 81417547
+	23_intprod: 29637735
+	24_intprod: 237935720
+	25_intprod: 82434750
+	26_intprod: 83378673
+	27_intprod: 28395315
+	28_intprod: 82344990
+	29_intprod: 28128225
+	30_intprod: 27334599
+	31_intprod: 9170977
+
+	0_symb_time: 1.654113782
+	1_symb_time: 1.935684754
+	2_symb_time: 2.082597728
+	3_symb_time: 2.236406486
+	4_symb_time: 2.433446995
+	5_symb_time: 2.426595746
+	6_symb_time: 2.573031229
+	7_symb_time: 2.627360822
+	8_symb_time: 3.018219218
+	9_symb_time: 2.419033771
+	10_symb_time: 2.921380615
+	11_symb_time: 3.098456941
+	12_symb_time: 2.944749290
+	13_symb_time: 2.649500125
+	14_symb_time: 3.055268391
+	15_symb_time: 3.395379250
+	16_symb_time: 3.415362099
+	17_symb_time: 2.625342709
+	18_symb_time: 2.837691727
+	19_symb_time: 3.087043126
+	20_symb_time: 3.302350298
+	21_symb_time: 3.602361257
+	22_symb_time: 3.559650756
+	23_symb_time: 3.010006627
+	24_symb_time: 2.701039383
+	25_symb_time: 3.236941835
+	26_symb_time: 3.308618097
+	27_symb_time: 3.471389501
+	28_symb_time: 3.438090022
+	29_symb_time: 3.682491318
+	30_symb_time: 3.694575850
+	31_symb_time: 4.095175289
+
+	0_numc_time: 13.444257318	_set_time: 0.205443159	_comp_time: 12.077374914	_write_time: 1.160852977	_row_cnt: 345	_flop_cnt: 264192689	_nnzc_cnt: 39995497	_cfi: 575.980991	_cfo: 6.605561	_row_range: 0-345
+	1_numc_time: 13.350758272	_set_time: 0.300239853	_comp_time: 11.338929822	_write_time: 1.710412524	_row_cnt: 904	_flop_cnt: 263511352	_nnzc_cnt: 60321109	_cfi: 764.720902	_cfo: 4.368477	_row_range: 345-1249
+	2_numc_time: 13.251018293	_set_time: 0.324537746	_comp_time: 10.954587041	_write_time: 1.970440856	_row_cnt: 1449	_flop_cnt: 263797414	_nnzc_cnt: 71265577	_cfi: 829.661194	_cfo: 3.701611	_row_range: 1249-2698
+	3_numc_time: 13.295472062	_set_time: 0.329792011	_comp_time: 10.878365034	_write_time: 2.085706763	_row_cnt: 2045	_flop_cnt: 263869477	_nnzc_cnt: 77116600	_cfi: 846.628262	_cfo: 3.421695	_row_range: 2698-4743
+	4_numc_time: 12.970814189	_set_time: 0.335178781	_comp_time: 10.323062987	_write_time: 2.310852874	_row_cnt: 3554	_flop_cnt: 263721488	_nnzc_cnt: 89480146	_cfi: 881.109928	_cfo: 2.947263	_row_range: 4743-8297
+	5_numc_time: 13.299302674	_set_time: 0.358315623	_comp_time: 10.610562730	_write_time: 2.328715323	_row_cnt: 2506	_flop_cnt: 263789546	_nnzc_cnt: 87631105	_cfi: 931.243234	_cfo: 3.010227	_row_range: 8297-10803
+	6_numc_time: 12.970665683	_set_time: 0.331229421	_comp_time: 10.216201125	_write_time: 2.421377582	_row_cnt: 5773	_flop_cnt: 264029492	_nnzc_cnt: 97897464	_cfi: 918.216536	_cfo: 2.697000	_row_range: 10803-16576
+	7_numc_time: 13.296014020	_set_time: 0.370498723	_comp_time: 10.370799326	_write_time: 2.552634886	_row_cnt: 3416	_flop_cnt: 263542602	_nnzc_cnt: 99036987	_cfi: 998.929601	_cfo: 2.661052	_row_range: 16576-19992
+	8_numc_time: 12.911829527	_set_time: 0.350177280	_comp_time: 9.688310167	_write_time: 2.871140048	_row_cnt: 7699	_flop_cnt: 263806346	_nnzc_cnt: 120028337	_cfi: 1058.965651	_cfo: 2.197867	_row_range: 19992-27691
+	9_numc_time: 13.130975711	_set_time: 0.326123084	_comp_time: 10.528770858	_write_time: 2.274285355	_row_cnt: 6195	_flop_cnt: 263803230	_nnzc_cnt: 89184628	_cfi: 908.682427	_cfo: 2.957945	_row_range: 27691-33886
+	10_numc_time: 13.043815835	_set_time: 0.373061763	_comp_time: 9.860505057	_write_time: 2.807753598	_row_cnt: 5539	_flop_cnt: 264014559	_nnzc_cnt: 113274329	_cfi: 1052.416874	_cfo: 2.330754	_row_range: 33886-39425
+	11_numc_time: 12.801341313	_set_time: 0.345495727	_comp_time: 9.541303266	_write_time: 2.912214064	_row_cnt: 10696	_flop_cnt: 263589383	_nnzc_cnt: 124334249	_cfi: 1074.502301	_cfo: 2.120006	_row_range: 39425-50121
+	12_numc_time: 12.708730412	_set_time: 0.307494768	_comp_time: 9.693426847	_write_time: 2.705320946	_row_cnt: 15671	_flop_cnt: 264576592	_nnzc_cnt: 119614232	_cfi: 999.930430	_cfo: 2.211916	_row_range: 50121-65792
+	13_numc_time: 13.231545239	_set_time: 0.376570309	_comp_time: 10.292495773	_write_time: 2.560574519	_row_cnt: 3843	_flop_cnt: 263301650	_nnzc_cnt: 99100328	_cfi: 993.654876	_cfo: 2.656920	_row_range: 65792-69635
+	14_numc_time: 12.832178452	_set_time: 0.349238791	_comp_time: 9.554854274	_write_time: 2.925599648	_row_cnt: 8205	_flop_cnt: 263857058	_nnzc_cnt: 121387255	_cfi: 1064.785568	_cfo: 2.173680	_row_range: 69635-77840
+	15_numc_time: 12.405052410	_set_time: 0.320744623	_comp_time: 8.934674193	_write_time: 3.146611391	_row_cnt: 15653	_flop_cnt: 263482971	_nnzc_cnt: 140677028	_cfi: 1142.047718	_cfo: 1.872964	_row_range: 77840-93493
+	16_numc_time: 12.508443037	_set_time: 0.316746653	_comp_time: 9.020357504	_write_time: 3.168128961	_row_cnt: 21323	_flop_cnt: 263937068	_nnzc_cnt: 141615301	_cfi: 1145.440874	_cfo: 1.863761	_row_range: 93493-114816
+	17_numc_time: 12.929700589	_set_time: 0.308831516	_comp_time: 10.161842137	_write_time: 2.456744859	_row_cnt: 17287	_flop_cnt: 263686557	_nnzc_cnt: 102216774	_cfi: 939.185133	_cfo: 2.579680	_row_range: 114816-132103
+	18_numc_time: 13.153733477	_set_time: 0.373548487	_comp_time: 10.028847093	_write_time: 2.749109221	_row_cnt: 5119	_flop_cnt: 263836038	_nnzc_cnt: 109463251	_cfi: 1039.432519	_cfo: 2.410270	_row_range: 132103-137222
+	19_numc_time: 12.826013645	_set_time: 0.344917639	_comp_time: 9.541457658	_write_time: 2.937139393	_row_cnt: 10748	_flop_cnt: 263943405	_nnzc_cnt: 124913312	_cfi: 1073.962245	_cfo: 2.113013	_row_range: 137222-147970
+	20_numc_time: 12.599193495	_set_time: 0.327820996	_comp_time: 9.134007334	_write_time: 3.134181175	_row_cnt: 16976	_flop_cnt: 263621861	_nnzc_cnt: 137692466	_cfi: 1137.001949	_cfo: 1.914570	_row_range: 147970-164946
+	21_numc_time: 12.071878546	_set_time: 0.286735117	_comp_time: 8.497202222	_write_time: 3.284489864	_row_cnt: 31734	_flop_cnt: 263884435	_nnzc_cnt: 155854132	_cfi: 1189.847755	_cfo: 1.693150	_row_range: 164946-196680
+	22_numc_time: 12.155608308	_set_time: 0.302412012	_comp_time: 8.550934523	_write_time: 3.299093914	_row_cnt: 20600	_flop_cnt: 263739332	_nnzc_cnt: 150897417	_cfi: 1179.714495	_cfo: 1.747805	_row_range: 196680-217280
+	23_numc_time: 12.601082453	_set_time: 0.274888301	_comp_time: 9.549731494	_write_time: 2.773321245	_row_cnt: 45253	_flop_cnt: 263879829	_nnzc_cnt: 128565648	_cfi: 1003.108883	_cfo: 2.052491	_row_range: 217280-262533
+	24_numc_time: 13.081596032	_set_time: 0.373036488	_comp_time: 10.106120247	_write_time: 2.600154588	_row_cnt: 3869	_flop_cnt: 263871722	_nnzc_cnt: 100463223	_cfi: 1001.072586	_cfo: 2.626550	_row_range: 262533-266402
+	25_numc_time: 12.643210178	_set_time: 0.348077801	_comp_time: 9.240759666	_write_time: 3.051385029	_row_cnt: 9759	_flop_cnt: 263648032	_nnzc_cnt: 129900333	_cfi: 1086.984259	_cfo: 2.029618	_row_range: 266402-276161
+	26_numc_time: 12.507496324	_set_time: 0.325400606	_comp_time: 9.072781351	_write_time: 3.106418127	_row_cnt: 18774	_flop_cnt: 263805408	_nnzc_cnt: 138070722	_cfi: 1127.551827	_cfo: 1.910654	_row_range: 276161-294935
+	27_numc_time: 12.385880103	_set_time: 0.325043058	_comp_time: 8.813514231	_write_time: 3.244254323	_row_cnt: 18682	_flop_cnt: 263813383	_nnzc_cnt: 145755672	_cfi: 1168.587857	_cfo: 1.809970	_row_range: 294935-313617
+	28_numc_time: 12.390156667	_set_time: 0.309916396	_comp_time: 8.884320527	_write_time: 3.192670026	_row_cnt: 25072	_flop_cnt: 263797161	_nnzc_cnt: 145654227	_cfi: 1168.293472	_cfo: 1.811119	_row_range: 313617-338689
+	29_numc_time: 11.949253670	_set_time: 0.263740233	_comp_time: 8.334512569	_write_time: 3.347032420	_row_cnt: 55039	_flop_cnt: 264514141	_nnzc_cnt: 164136629	_cfi: 1215.246234	_cfo: 1.611549	_row_range: 338689-393728
+	30_numc_time: 11.922761530	_set_time: 0.290938642	_comp_time: 8.270007146	_write_time: 3.358184732	_row_cnt: 28236	_flop_cnt: 263104770	_nnzc_cnt: 158400643	_cfi: 1207.273658	_cfo: 1.661008	_row_range: 393728-421964
+	31_numc_time: 11.453321674	_set_time: 0.225698879	_comp_time: 7.583704298	_write_time: 3.638597901	_row_cnt: 102324	_flop_cnt: 263792579	_nnzc_cnt: 188565286	_cfi: 1320.421961	_cfo: 1.398946	_row_range: 421964-524288
+
+[0;36m0th run	init_time: 0.013205716	symb_time: 4.097480624	mgmt_time: 0.000013088	numc_time: 13.457079115	total_time: 17.567778543
+[0m
+	0_intprod: 1762633100
+	1_intprod: 666241701
+	2_intprod: 666255477
+	3_intprod: 240729513
+	4_intprod: 665066540
+	5_intprod: 237526971
+	6_intprod: 236329635
+	7_intprod: 84595278
+	8_intprod: 664570022
+	9_intprod: 236859697
+	10_intprod: 237732309
+	11_intprod: 83507176
+	12_intprod: 235423852
+	13_intprod: 81675575
+	14_intprod: 80892209
+	15_intprod: 30635171
+	16_intprod: 662186444
+	17_intprod: 238204643
+	18_intprod: 236008953
+	19_intprod: 83645235
+	20_intprod: 239085103
+	21_intprod: 81778435
+	22_intprod: 81417547
+	23_intprod: 29637735
+	24_intprod: 237935720
+	25_intprod: 82434750
+	26_intprod: 83378673
+	27_intprod: 28395315
+	28_intprod: 82344990
+	29_intprod: 28128225
+	30_intprod: 27334599
+	31_intprod: 9170977
+
+	0_symb_time: 1.681457842
+	1_symb_time: 1.896076850
+	2_symb_time: 2.133155419
+	3_symb_time: 2.206934179
+	4_symb_time: 2.433591520
+	5_symb_time: 2.437125515
+	6_symb_time: 2.544208745
+	7_symb_time: 2.621351491
+	8_symb_time: 3.035225527
+	9_symb_time: 2.414509056
+	10_symb_time: 2.939084013
+	11_symb_time: 3.101653462
+	12_symb_time: 2.915896044
+	13_symb_time: 2.654694957
+	14_symb_time: 3.066449913
+	15_symb_time: 3.378489395
+	16_symb_time: 3.378361550
+	17_symb_time: 2.642152748
+	18_symb_time: 2.821705190
+	19_symb_time: 3.079639464
+	20_symb_time: 3.293478587
+	21_symb_time: 3.596362680
+	22_symb_time: 3.573222876
+	23_symb_time: 3.017145519
+	24_symb_time: 2.629490526
+	25_symb_time: 3.206956282
+	26_symb_time: 3.299650466
+	27_symb_time: 3.479654475
+	28_symb_time: 3.421582577
+	29_symb_time: 3.679510678
+	30_symb_time: 3.690281805
+	31_symb_time: 4.082633713
+
+	0_numc_time: 13.522120911	_set_time: 0.201719770	_comp_time: 12.151125737	_write_time: 1.168682065	_row_cnt: 345	_flop_cnt: 264192689	_nnzc_cnt: 39995497	_cfi: 575.980991	_cfo: 6.605561	_row_range: 0-345
+	1_numc_time: 13.478594577	_set_time: 0.294359421	_comp_time: 11.461809682	_write_time: 1.721111118	_row_cnt: 904	_flop_cnt: 263511352	_nnzc_cnt: 60321109	_cfi: 764.720902	_cfo: 4.368477	_row_range: 345-1249
+	2_numc_time: 13.465453983	_set_time: 0.324937332	_comp_time: 11.162442988	_write_time: 1.976631877	_row_cnt: 1449	_flop_cnt: 263797414	_nnzc_cnt: 71265577	_cfi: 829.661194	_cfo: 3.701611	_row_range: 1249-2698
+	3_numc_time: 13.258130785	_set_time: 0.327201141	_comp_time: 10.834334552	_write_time: 2.095000088	_row_cnt: 2045	_flop_cnt: 263869477	_nnzc_cnt: 77116600	_cfi: 846.628262	_cfo: 3.421695	_row_range: 2698-4743
+	4_numc_time: 12.945780612	_set_time: 0.323003240	_comp_time: 10.315492868	_write_time: 2.305448776	_row_cnt: 3554	_flop_cnt: 263721488	_nnzc_cnt: 89480146	_cfi: 881.109928	_cfo: 2.947263	_row_range: 4743-8297
+	5_numc_time: 13.322820124	_set_time: 0.350434631	_comp_time: 10.652901118	_write_time: 2.317693628	_row_cnt: 2506	_flop_cnt: 263789546	_nnzc_cnt: 87631105	_cfi: 931.243234	_cfo: 3.010227	_row_range: 8297-10803
+	6_numc_time: 12.960424634	_set_time: 0.327307248	_comp_time: 10.218920465	_write_time: 2.412147543	_row_cnt: 5773	_flop_cnt: 264029492	_nnzc_cnt: 97897464	_cfi: 918.216536	_cfo: 2.697000	_row_range: 10803-16576
+	7_numc_time: 13.261459486	_set_time: 0.359807034	_comp_time: 10.345512688	_write_time: 2.554243442	_row_cnt: 3416	_flop_cnt: 263542602	_nnzc_cnt: 99036987	_cfi: 998.929601	_cfo: 2.661052	_row_range: 16576-19992
+	8_numc_time: 12.997993140	_set_time: 0.367698309	_comp_time: 9.740330926	_write_time: 2.887522263	_row_cnt: 7699	_flop_cnt: 263806346	_nnzc_cnt: 120028337	_cfi: 1058.965651	_cfo: 2.197867	_row_range: 19992-27691
+	9_numc_time: 13.140632506	_set_time: 0.315350020	_comp_time: 10.541899350	_write_time: 2.281609913	_row_cnt: 6195	_flop_cnt: 263803230	_nnzc_cnt: 89184628	_cfi: 908.682427	_cfo: 2.957945	_row_range: 27691-33886
+	10_numc_time: 13.193584264	_set_time: 0.373112154	_comp_time: 10.021366806	_write_time: 2.796711352	_row_cnt: 5539	_flop_cnt: 264014559	_nnzc_cnt: 113274329	_cfi: 1052.416874	_cfo: 2.330754	_row_range: 33886-39425
+	11_numc_time: 12.872282180	_set_time: 0.343156064	_comp_time: 9.617267212	_write_time: 2.909411618	_row_cnt: 10696	_flop_cnt: 263589383	_nnzc_cnt: 124334249	_cfi: 1074.502301	_cfo: 2.120006	_row_range: 39425-50121
+	12_numc_time: 12.684453297	_set_time: 0.292328774	_comp_time: 9.689278181	_write_time: 2.700436258	_row_cnt: 15671	_flop_cnt: 264576592	_nnzc_cnt: 119614232	_cfi: 999.930430	_cfo: 2.211916	_row_range: 50121-65792
+	13_numc_time: 13.297266103	_set_time: 0.370384025	_comp_time: 10.368095012	_write_time: 2.556793502	_row_cnt: 3843	_flop_cnt: 263301650	_nnzc_cnt: 99100328	_cfi: 993.654876	_cfo: 2.656920	_row_range: 65792-69635
+	14_numc_time: 13.099024145	_set_time: 0.370670659	_comp_time: 9.819644742	_write_time: 2.906243787	_row_cnt: 8205	_flop_cnt: 263857058	_nnzc_cnt: 121387255	_cfi: 1064.785568	_cfo: 2.173680	_row_range: 69635-77840
+	15_numc_time: 12.553654120	_set_time: 0.321153708	_comp_time: 9.086639452	_write_time: 3.142911478	_row_cnt: 15653	_flop_cnt: 263482971	_nnzc_cnt: 140677028	_cfi: 1142.047718	_cfo: 1.872964	_row_range: 77840-93493
+	16_numc_time: 12.482722577	_set_time: 0.311234364	_comp_time: 9.000347771	_write_time: 3.168059893	_row_cnt: 21323	_flop_cnt: 263937068	_nnzc_cnt: 141615301	_cfi: 1145.440874	_cfo: 1.863761	_row_range: 93493-114816
+	17_numc_time: 13.042112675	_set_time: 0.310748123	_comp_time: 10.286916769	_write_time: 2.442222126	_row_cnt: 17287	_flop_cnt: 263686557	_nnzc_cnt: 102216774	_cfi: 939.185133	_cfo: 2.579680	_row_range: 114816-132103
+	18_numc_time: 13.113987006	_set_time: 0.366256819	_comp_time: 10.004686537	_write_time: 2.740827567	_row_cnt: 5119	_flop_cnt: 263836038	_nnzc_cnt: 109463251	_cfi: 1039.432519	_cfo: 2.410270	_row_range: 132103-137222
+	19_numc_time: 12.636635370	_set_time: 0.339493871	_comp_time: 9.348605415	_write_time: 2.945932031	_row_cnt: 10748	_flop_cnt: 263943405	_nnzc_cnt: 124913312	_cfi: 1073.962245	_cfo: 2.113013	_row_range: 137222-147970
+	20_numc_time: 12.531032704	_set_time: 0.323827670	_comp_time: 9.084997780	_write_time: 3.119264740	_row_cnt: 16976	_flop_cnt: 263621861	_nnzc_cnt: 137692466	_cfi: 1137.001949	_cfo: 1.914570	_row_range: 147970-164946
+	21_numc_time: 12.079433415	_set_time: 0.283718475	_comp_time: 8.519625706	_write_time: 3.271874209	_row_cnt: 31734	_flop_cnt: 263884435	_nnzc_cnt: 155854132	_cfi: 1189.847755	_cfo: 1.693150	_row_range: 164946-196680
+	22_numc_time: 12.299449192	_set_time: 0.311157773	_comp_time: 8.691405733	_write_time: 3.293680462	_row_cnt: 20600	_flop_cnt: 263739332	_nnzc_cnt: 150897417	_cfi: 1179.714495	_cfo: 1.747805	_row_range: 196680-217280
+	23_numc_time: 12.650319954	_set_time: 0.284988038	_comp_time: 9.610150691	_write_time: 2.752008090	_row_cnt: 45253	_flop_cnt: 263879829	_nnzc_cnt: 128565648	_cfi: 1003.108883	_cfo: 2.052491	_row_range: 217280-262533
+	24_numc_time: 13.062714018	_set_time: 0.355125791	_comp_time: 10.121661295	_write_time: 2.583860292	_row_cnt: 3869	_flop_cnt: 263871722	_nnzc_cnt: 100463223	_cfi: 1001.072586	_cfo: 2.626550	_row_range: 262533-266402
+	25_numc_time: 12.500085870	_set_time: 0.332306874	_comp_time: 9.121635522	_write_time: 3.043054846	_row_cnt: 9759	_flop_cnt: 263648032	_nnzc_cnt: 129900333	_cfi: 1086.984259	_cfo: 2.029618	_row_range: 266402-276161
+	26_numc_time: 12.584931397	_set_time: 0.324875804	_comp_time: 9.168910994	_write_time: 3.088375435	_row_cnt: 18774	_flop_cnt: 263805408	_nnzc_cnt: 138070722	_cfi: 1127.551827	_cfo: 1.910654	_row_range: 276161-294935
+	27_numc_time: 12.497489641	_set_time: 0.331091156	_comp_time: 8.922836878	_write_time: 3.240293506	_row_cnt: 18682	_flop_cnt: 263813383	_nnzc_cnt: 145755672	_cfi: 1168.587857	_cfo: 1.809970	_row_range: 294935-313617
+	28_numc_time: 12.416164306	_set_time: 0.303878165	_comp_time: 8.918850824	_write_time: 3.190187334	_row_cnt: 25072	_flop_cnt: 263797161	_nnzc_cnt: 145654227	_cfi: 1168.293472	_cfo: 1.811119	_row_range: 313617-338689
+	29_numc_time: 11.916477256	_set_time: 0.255864704	_comp_time: 8.325409008	_write_time: 3.330933688	_row_cnt: 55039	_flop_cnt: 264514141	_nnzc_cnt: 164136629	_cfi: 1215.246234	_cfo: 1.611549	_row_range: 338689-393728
+	30_numc_time: 11.972107841	_set_time: 0.300560766	_comp_time: 8.315990198	_write_time: 3.352183567	_row_cnt: 28236	_flop_cnt: 263104770	_nnzc_cnt: 158400643	_cfi: 1207.273658	_cfo: 1.661008	_row_range: 393728-421964
+	31_numc_time: 11.290533868	_set_time: 0.214187105	_comp_time: 7.461730552	_write_time: 3.609706298	_row_cnt: 102324	_flop_cnt: 263792579	_nnzc_cnt: 188565286	_cfi: 1320.421961	_cfo: 1.398946	_row_range: 421964-524288
+
+[0;36m1th run	init_time: 0.014192303	symb_time: 4.084905885	mgmt_time: 0.000011768	numc_time: 13.534596878	total_time: 17.633706834
+[0m
+[0;32mdataset: g500_19_8	num_trials: 1	thread_num: 32	numa_mask: 6	init_time: 0.014192303	symb_time: 4.084905885	mgmt_time: 0.000011768	numc_time: 13.534596878	total_time: 17.633706834	flop_cnt: 8441761570	numc_perf: 623717251.876321435	perf: 478728701.200998962
+[0m
