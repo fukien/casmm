@@ -1,6 +1,6 @@
-# AMS Paper
+# Taming Multi-Dimensional Skew in Sparse Matrix Multiplication with Contention-Aware Scheduling
 
-This repository contains the artifact for the paper *AMS Paper*.
+This repository contains the source code for the paper *Taming Multi-Dimensional Skew in Sparse Matrix Multiplication with Contention-Aware Schedulingr*.
 
 ---
 

@@ -1,7 +1,7 @@
 # Artifact for Reproducibility
 
 > Wentao Huang *et al.*  
-> *AMS paper*
+> *Taming Multi-Dimensional Skew in Sparse Matrix Multiplication with Contention-Aware Scheduling*  
 > Under review.
 
 ---
