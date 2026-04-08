@@ -1,8 +1,9 @@
 # Artifact for Reproducibility
 
 > Wentao Huang *et al.*  
-> *Taming Multi-Dimensional Skew in Sparse Matrix Multiplication with Contention-Aware Scheduling*  
-> Under review.
+> *Taming Multi-Dimensional Skew in Sparse Matrix Multiplication with Contention-Aware Scheduling* 
+>  
+>  ![Status](https://img.shields.io/badge/status-under--review-yellow)
 
 ---
 
