@@ -1,0 +1,28 @@
+CONFIGURATION:	USE_HYPERTHREADING	HASH_CONSTANT: 2654435761	THREAD_NUM: 64	AB_HIGH_THREAD_NUM: 22	AB_SIZE: 524288	AB_MIN_NUM: 32768	AB_PRT: 0.850000	AB_DNR	AB_ACC_THRES: 1.116000	DAHA	DAHA_REAR	DAHA_QUANTILE: 0.990000	DAHA_SYMB_THRES: 7000000	DAHA_NUMC_THRES: 2100000	DAHA_SPMV_THRES: 800000	DAHA_SPMM_THRES: 800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000	SPMM_B_K: 64	MKL_DENSE_VAL: 3.00
+backend: mkl_sparse_sp2m	metapath: TPAPT	left half: TPA	(2 edges)
+  pt.trs: 120685 x 3079007, nnz=22644935	(dataset/pathsim/dblp_v10/pt.trs.mtx)
+  ap.trs: 3079007 x 1766547, nnz=9476108	(dataset/pathsim/dblp_v10/ap.trs.mtx)
+  step 1/1: TP x PA -> 120685 x 1766547, nnz=48479839	(0.554403889 s  init=0.002897 symb=0.094944 mgmt=0.303842 numc=0.150983)
+  M_l: 120685 x 1766547, nnz=48479839	(8.823559935 s total)
+  diag precompute: 0.003197525 s
+
+query: id=105634  type=T  name="systems"
+
+[0;36m0th run	init_time: 0.003584682	symb_time: 0.000000000	mgmt_time: 0.000062577	numc_time: 0.008787610	total_time: 0.012434869
+[0m[0;36m1th run	init_time: 0.002171915	symb_time: 0.000000000	mgmt_time: 0.000065889	numc_time: 0.008795735	total_time: 0.011033539
+[0m[0;36m2th run	init_time: 0.002169491	symb_time: 0.000000000	mgmt_time: 0.000066436	numc_time: 0.008480772	total_time: 0.010716699
+[0m
+top-10:
+   1. T=105634	score=1.000000000	systems
+   2. T=108441	score=0.532471101	time
+   3. T=20247	score=0.516929600	control
+   4. T=3426	score=0.466948851	analysis
+   5. T=105564	score=0.449617055	system
+   6. T=68553	score=0.424279256	multi
+   7. T=25553	score=0.415233297	design
+   8. T=66850	score=0.402473872	model
+   9. T=4816	score=0.397937748	approach
+  10. T=71692	score=0.392113546	networks
+
+[0;32mbackend: mkl_sparse_sp2m	dataset: dblp_v10	metapath: TPAPT	query: 105634	k: 10	num_trials: 2	thread_num: 64	numa_mask: 1	ml_time: 8.823559935	ml_init: 0.002897355	ml_symb: 0.094943506	ml_mgmt: 0.303841567	ml_numc: 0.150983406	diag_time: 0.003197525	init_time: 0.002170703	symb_time: 0.000000000	mgmt_time: 0.000066163	numc_time: 0.008638254	total_time: 0.010875119	ml_nnz: 48479839
+[0m

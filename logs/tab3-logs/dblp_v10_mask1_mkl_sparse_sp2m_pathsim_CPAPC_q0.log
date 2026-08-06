@@ -1,0 +1,28 @@
+CONFIGURATION:	USE_HYPERTHREADING	HASH_CONSTANT: 2654435761	THREAD_NUM: 64	AB_HIGH_THREAD_NUM: 22	AB_SIZE: 524288	AB_MIN_NUM: 32768	AB_PRT: 0.850000	AB_DNR	AB_ACC_THRES: 1.116000	DAHA	DAHA_REAR	DAHA_QUANTILE: 0.990000	DAHA_SYMB_THRES: 7000000	DAHA_NUMC_THRES: 2100000	DAHA_SPMV_THRES: 800000	DAHA_SPMM_THRES: 800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000	SPMM_B_K: 64	MKL_DENSE_VAL: 3.00
+backend: mkl_sparse_sp2m	metapath: CPAPC	left half: CPA	(2 edges)
+  cp.org: 5078 x 3079007, nnz=2572308	(dataset/pathsim/dblp_v10/cp.org.mtx)
+  ap.trs: 3079007 x 1766547, nnz=9476108	(dataset/pathsim/dblp_v10/ap.trs.mtx)
+  step 1/1: CP x PA -> 5078 x 1766547, nnz=4984961	(0.099792591 s  init=0.002903 symb=0.030618 mgmt=0.032139 numc=0.033880)
+  M_l: 5078 x 1766547, nnz=4984961	(3.260069958 s total)
+  diag precompute: 0.000425871 s
+
+query: id=0  type=C  name="international conference on human-computer interaction"
+
+[0;36m0th run	init_time: 0.001000220	symb_time: 0.000000000	mgmt_time: 0.000002508	numc_time: 0.004489320	total_time: 0.005492048
+[0m[0;36m1th run	init_time: 0.000982220	symb_time: 0.000000000	mgmt_time: 0.000002663	numc_time: 0.005112388	total_time: 0.006097271
+[0m[0;36m2th run	init_time: 0.000870191	symb_time: 0.000000000	mgmt_time: 0.000002527	numc_time: 0.004707190	total_time: 0.005579908
+[0m
+top-10:
+   1. C=0	score=1.000000000	international conference on human-computer interaction
+   2. C=16	score=0.284607290	international conference on human computer interaction
+   3. C=3677	score=0.138075149	nordic conference on human-computer interaction
+   4. C=1268	score=0.128334009	Interacting with Computers
+   5. C=1036	score=0.116639846	International Journal of Human-computer Studies \/ International Journal of Man-machine Studies
+   6. C=1980	score=0.112449799	designing interactive systems
+   7. C=1499	score=0.107164750	advanced visual interfaces
+   8. C=578	score=0.098389450	human factors in computing systems
+   9. C=2545	score=0.092444042	australasian computer-human interaction conference
+  10. C=1770	score=0.086548822	intelligent user interfaces
+
+[0;32mbackend: mkl_sparse_sp2m	dataset: dblp_v10	metapath: CPAPC	query: 0	k: 10	num_trials: 2	thread_num: 64	numa_mask: 1	ml_time: 3.260069958	ml_init: 0.002903221	ml_symb: 0.030618221	ml_mgmt: 0.032138772	ml_numc: 0.033879506	diag_time: 0.000425871	init_time: 0.000926205	symb_time: 0.000000000	mgmt_time: 0.000002595	numc_time: 0.004909789	total_time: 0.005838589	ml_nnz: 4984961
+[0m

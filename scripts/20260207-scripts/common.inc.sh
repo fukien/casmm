@@ -9,7 +9,7 @@ CAP=$RUN_LIMIT_M1
 
 CUR_DIR=$(pwd)
 
-DIR_PATH=${CUR_DIR}/../../logs/20260207-logs
+DIR_PATH=${CUR_DIR}/../../logs/figure14-logs
 mkdir -p $DIR_PATH
 
 DATASET_DIR=${CUR_DIR}/../../dataset/groupby-sorted

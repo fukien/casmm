@@ -1,0 +1,28 @@
+CONFIGURATION:	USE_HYPERTHREADING	HASH_CONSTANT: 2654435761	THREAD_NUM: 64	AB_HIGH_THREAD_NUM: 22	AB_SIZE: 524288	AB_MIN_NUM: 32768	AB_PRT: 0.850000	AB_DNR	AB_ACC_THRES: 1.116000	DAHA	DAHA_REAR	DAHA_QUANTILE: 0.990000	DAHA_SYMB_THRES: 7000000	DAHA_NUMC_THRES: 2100000	DAHA_SPMV_THRES: 800000	DAHA_SPMM_THRES: 800000	DN_MIN: 256	GUD_ALPHA: 0.500000	GUD_MIN: 256	HYB_THRES: 0.950000	SPMM_B_K: 64	MKL_DENSE_VAL: 3.00
+backend: mkl_sparse_sp2m	metapath: APTPA	left half: APT	(2 edges)
+  ap.org: 1766547 x 3079007, nnz=9476108	(dataset/pathsim/dblp_v10/ap.org.mtx)
+  pt.org: 3079007 x 120685, nnz=22644935	(dataset/pathsim/dblp_v10/pt.org.mtx)
+  step 1/1: AP x PT -> 1766547 x 120685, nnz=48479839	(0.635141625 s  init=0.002941 symb=0.040694 mgmt=0.338079 numc=0.251670)
+  M_l: 1766547 x 120685, nnz=48479839	(8.955023600 s total)
+  diag precompute: 0.005417023 s
+
+query: id=30247  type=A  name="AnHai Doan"
+
+[0;36m0th run	init_time: 0.000066594	symb_time: 0.000000000	mgmt_time: 0.000912291	numc_time: 0.006653710	total_time: 0.007632595
+[0m[0;36m1th run	init_time: 0.000073317	symb_time: 0.000000000	mgmt_time: 0.000982290	numc_time: 0.007075555	total_time: 0.008131162
+[0m[0;36m2th run	init_time: 0.000072449	symb_time: 0.000000000	mgmt_time: 0.000975690	numc_time: 0.006418369	total_time: 0.007466508
+[0m
+top-10:
+   1. A=30247	score=1.000000000	AnHai Doan
+   2. A=33473	score=0.651135814	Alon Y. Halevy
+   3. A=24530	score=0.631611316	Ana Carolina Salgado
+   4. A=19483	score=0.611832612	Francesco Guerra
+   5. A=40330	score=0.604449695	Yannis Velegrakis
+   6. A=26914	score=0.594567063	José Luis Ambite
+   7. A=57879	score=0.592401501	Stuart E. Madnick
+   8. A=1382	score=0.588383838	Tiezheng Nie
+   9. A=1379	score=0.580242751	Derong Shen
+  10. A=8907	score=0.579237334	Silvana Castano
+
+[0;32mbackend: mkl_sparse_sp2m	dataset: dblp_v10	metapath: APTPA	query: 30247	k: 10	num_trials: 2	thread_num: 64	numa_mask: 1	ml_time: 8.955023600	ml_init: 0.002940622	ml_symb: 0.040694437	ml_mgmt: 0.338079057	ml_numc: 0.251669621	diag_time: 0.005417023	init_time: 0.000072883	symb_time: 0.000000000	mgmt_time: 0.000978990	numc_time: 0.006746962	total_time: 0.007798835	ml_nnz: 48479839
+[0m

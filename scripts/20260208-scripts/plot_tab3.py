@@ -8,9 +8,9 @@ import sys
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 REPO_ROOT = os.path.dirname(os.path.dirname(SCRIPT_DIR))
-DEFAULT_LOGS = os.path.join(REPO_ROOT, "logs", "20260208-logs")
+DEFAULT_LOGS = os.path.join(REPO_ROOT, "logs", "tab3-logs")
 
-BACKENDS = [("AMS-HYB", "ab_hybaccspgemm_pathsim"),
+BACKENDS = [("AMS-HASH", "ab_hashspgemm_pathsim"),
             ("MKL", "mkl_dcsrmultcsr_pathsim")]
 
 METAPATHS = ["APCPA", "APTPA", "TPAPT", "CPAPC"]
@@ -100,14 +100,14 @@ def build_rows(timings, shape):
             "rows": shape.get(mp, (None,) * 3)[0],
             "nnz": shape.get(mp, (None,) * 3)[1],
             "gini": shape.get(mp, (None,) * 3)[2],
-            "ams": t.get("AMS-HYB"),
+            "ams": t.get("AMS-HASH"),
             "mkl": t.get("MKL"),
         })
     return rows
 
 
 def fmt(rows):
-    head = ("| Meta-path | \\|row\\| | \\|nnz\\| | Gini | AMS-HYB | MKL | Speedup |\n"
+    head = ("| Meta-path | \\|row\\| | \\|nnz\\| | Gini | AMS-HASH | MKL | Speedup |\n"
             "|---|---:|---:|---:|---:|---:|---:|\n")
     body = []
     for r in rows:

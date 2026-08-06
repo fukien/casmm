@@ -10,8 +10,8 @@ NUMACTL="/home/huang/workspace/numactl/numactl"
 
 CUR_DIR=$(pwd)
 
-DIR_PATH=${CUR_DIR}/../../logs/20260208-logs
-FIG_PATH=${CUR_DIR}/../../figs/20260208-figs
+DIR_PATH=${CUR_DIR}/../../logs/tab3-logs
+FIG_PATH=${CUR_DIR}/../../figs/tab3-figs
 mkdir -p $DIR_PATH $FIG_PATH
 
 DATA_DIR=${CUR_DIR}/../../dataset/pathsim
@@ -38,7 +38,7 @@ QUERY_RUNS=(
 METAPATHS=APCPA,APTPA,TPAPT,CPAPC
 
 BACKENDS=(
-	ab_hybaccspgemm_pathsim
+	ab_hashspgemm_pathsim
 	mkl_dcsrmultcsr_pathsim
 )
 

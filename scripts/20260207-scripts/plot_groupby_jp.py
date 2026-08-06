@@ -10,9 +10,9 @@ import matplotlib.ticker
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO_ROOT = os.path.dirname(os.path.dirname(HERE))
-LOG_DIR = os.path.join(REPO_ROOT, "logs", "20260207-logs")
+LOG_DIR = os.path.join(REPO_ROOT, "logs", "figure14-logs")
 LOG_DIR_ORIG = LOG_DIR
-FIG_DIR = os.path.join(REPO_ROOT, "figs", "20260207-figs")
+FIG_DIR = os.path.join(REPO_ROOT, "figs", "figure14-figs")
 
 algo2legend = {
 	"ab_hybacc_daha": "AMS-HYB",
