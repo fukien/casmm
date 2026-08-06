@@ -93,21 +93,21 @@ Navigate to the indicated script folders and execute the provided scripts (`run_
 
 Figure | Experiment Scripts
 ---|---
-"Figure 1" | [20260205-scripts](scripts/20260205-scripts)
-"Figure 3" | [20260204-scripts](scripts/20260204-scripts)
-"Figure 4" | [20260203-scripts](scripts/20260203-scripts)
-"Figure 6" | [20260201-scripts](scripts/20260201-scripts)
-"Figure 8" | [20260202-scripts](scripts/20260202-scripts)
-"Figure 9" | [20260129-scripts](scripts/20260129-scripts)
-"Figure 10" | [20260126-scripts](scripts/20260126-scripts)
-"Figure 11" | [20260130-scripts](scripts/20260130-scripts)
-"Figure 12" | [20260127-scripts](scripts/20260127-scripts)
-"Figure 13" | [20260131-scripts](scripts/20260131-scripts)
-"Figure 14" | [20260207-scripts](scripts/20260207-scripts)
-"Figure 15" | [20260208-scripts](scripts/20260208-scripts)
+"Figure 1" | [20260205-scripts](../scripts/20260205-scripts)
+"Figure 3" | [20260204-scripts](../scripts/20260204-scripts)
+"Figure 4" | [20260203-scripts](../scripts/20260203-scripts)
+"Figure 6" | [20260201-scripts](../scripts/20260201-scripts)
+"Figure 8" | [20260202-scripts](../scripts/20260202-scripts)
+"Figure 9" | [20260129-scripts](../scripts/20260129-scripts)
+"Figure 10" | [20260126-scripts](../scripts/20260126-scripts)
+"Figure 11" | [20260130-scripts](../scripts/20260130-scripts)
+"Figure 12" | [20260127-scripts](../scripts/20260127-scripts)
+"Figure 13" | [20260131-scripts](../scripts/20260131-scripts)
+"Figure 14" | [20260207-scripts](../scripts/20260207-scripts)
+"Table 3" | [20260208-scripts](../scripts/20260208-scripts)
 <!--
-"join-aggregate" | [20260206-scripts](scripts/20260206-scripts)
-"spmm/spmv" | [20260128-scripts](scripts/20260128-scripts)
+"join-aggregate" | [20260206-scripts](../scripts/20260206-scripts)
+"spmm/spmv" | [20260128-scripts](../scripts/20260128-scripts)
 -->
 
 ---
