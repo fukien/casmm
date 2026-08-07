@@ -121,7 +121,7 @@ bash run_all.sh
 Logs will be stored in `./logs/`. Pre-collected logs are also available.
 
 **Note:**
-- `table1-scripts` and `table2-scripts` print data to stdout and are recommended to be run individually.
+- `table1-scripts`, `table2-scripts`, and `table3-scripts` print data to stdout and are recommended to be run individually.
 - Running all experiments via `run_all.sh` may take up to **20 hours**.
 
 ---
