@@ -1,6 +1,8 @@
 # Taming Multi-Dimensional Skew in Sparse Matrix Multiplication with Contention-Aware Scheduling
 
-This repository contains the source code for the paper,  *Taming Multi-Dimensional Skew in Sparse Matrix Multiplication with Contention-Aware Schedulingr*.
+This repository contains the source code for the paper,  *Taming Multi-Dimensional Skew in Sparse Matrix Multiplication with Contention-Aware Scheduling*.
+
+**Technical report:** an extended version of the paper, including the appendices, is included in this repository as [`main-tr.pdf`](main-tr.pdf).
 
 ![Status](https://img.shields.io/badge/status-under--review-yellow)
 
